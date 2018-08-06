@@ -1,0 +1,646 @@
+<!DOCTYPE html><html amp="" lang="vi-vn" amp-version="1533168552513" class="i-amphtml-singledoc i-amphtml-standalone" style="padding-top: 0px !important;"><head><style amp-runtime="">html{overflow-x:hidden!important}body,html{height:auto!important}html.i-amphtml-fie{height:100%!important;width:100%!important}body{margin:0!important;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}[hidden]{display:none!important}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y;touch-action:pan-y}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important;position:relative!important}html.i-amphtml-webview>body{overflow-x:hidden!important;overflow-y:visible!important;min-height:100vh!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}html.i-amphtml-ios-embed-sd{overflow:hidden!important;position:static!important}html.i-amphtml-ios-embed-sd>body,html.i-amphtml-singledoc.i-amphtml-ios-embed-sd>body{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;overflow:hidden!important}.i-amphtml-element{display:inline-block}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][sizes]:not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic{display:inline-block;position:relative;max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-fixed-height,[layout=fixed-height][height]{display:block;position:relative}.i-amphtml-layout-container,[layout=container]{display:block;position:relative}.i-amphtml-layout-fill,[layout=fill]:not(.i-amphtml-layout-fill){display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-moz-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*{display:none}.i-amphtml-ghost{visibility:hidden!important}[layout=nodisplay]:not(.i-amphtml-display){display:none!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder]{display:block}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback]{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-loader-line{position:absolute;top:0;left:0;right:0;height:1px;overflow:hidden!important;background-color:hsla(0,0%,59.2%,0.2);display:block}.i-amphtml-loader-moving-line{display:block;position:absolute;width:100%;height:100%!important;background-color:hsla(0,0%,59.2%,0.65);z-index:2}@-webkit-keyframes i-amphtml-loader-line-moving{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}to{-webkit-transform:translateX(100%);transform:translateX(100%)}}@keyframes i-amphtml-loader-line-moving{0%{-webkit-transform:translateX(-100%);transform:translateX(-100%)}to{-webkit-transform:translateX(100%);transform:translateX(100%)}}.i-amphtml-loader-line.amp-active .i-amphtml-loader-moving-line{-webkit-animation:i-amphtml-loader-line-moving 4s ease infinite;animation:i-amphtml-loader-line-moving 4s ease infinite}.i-amphtml-loader{position:absolute;display:block;height:10px;top:50%;left:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);-webkit-transform-origin:50% 50%;transform-origin:50% 50%;white-space:nowrap}.i-amphtml-loader.amp-active .i-amphtml-loader-dot{-webkit-animation:i-amphtml-loader-dots 2s infinite;animation:i-amphtml-loader-dots 2s infinite}.i-amphtml-loader-dot{position:relative;display:inline-block;height:10px;width:10px;margin:2px;border-radius:100%;background-color:rgba(0,0,0,0.3);box-shadow:2px 2px 2px 1px rgba(0,0,0,0.2);will-change:transform}.i-amphtml-loader .i-amphtml-loader-dot:first-child{-webkit-animation-delay:0s;animation-delay:0s}.i-amphtml-loader .i-amphtml-loader-dot:nth-child(2){-webkit-animation-delay:.1s;animation-delay:.1s}.i-amphtml-loader .i-amphtml-loader-dot:nth-child(3){-webkit-animation-delay:.2s;animation-delay:.2s}@-webkit-keyframes i-amphtml-loader-dots{0%,to{-webkit-transform:scale(.7);transform:scale(.7);background-color:rgba(0,0,0,0.3)}50%{-webkit-transform:scale(.8);transform:scale(.8);background-color:rgba(0,0,0,0.5)}}@keyframes i-amphtml-loader-dots{0%,to{-webkit-transform:scale(.7);transform:scale(.7);background-color:rgba(0,0,0,0.3)}50%{-webkit-transform:scale(.8);transform:scale(.8);background-color:rgba(0,0,0,0.5)}}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-instagram{padding:64px 0px 0px!important;background-color:#fff}amp-analytics,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}form [submit-error],form [submit-success],form [submitting]{display:none}[visible-when-invalid]{display:none}amp-live-list>[update]{display:none}amp-experiment,amp-share-tracking{display:none}.i-amphtml-jank-meter{position:fixed;background-color:rgba(232,72,95,0.5);bottom:0;right:0;color:#fff;font-size:16px;z-index:1000;padding:5px}amp-accordion{display:block!important}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}.i-amphtml-accordion-content,.i-amphtml-accordion-header,amp-accordion,amp-accordion>section{margin:0}.i-amphtml-accordion-header{cursor:pointer;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}amp-accordion>section>:last-child{display:none!important}amp-accordion>section[expanded]>:last-child{display:block!important}amp-story-page,amp-story[standalone]{display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#fff!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .i-amphtml-loader{display:none!important}[amp-fx^=fly-in]{visibility:hidden}
+/*# sourceURL=/css/amp.css*/</style><style amp-extension="amp-sidebar">amp-sidebar{position:fixed!important;top:0;max-height:100vh!important;height:100vh;max-width:80vw;background-color:#efefef;min-width:45px!important;outline:none;overflow-x:hidden!important;overflow-y:auto!important;z-index:2147483647;-webkit-overflow-scrolling:touch;will-change:transform}amp-sidebar[side=left]{left:0!important;-webkit-transform:translateX(-100%)!important;transform:translateX(-100%)!important}amp-sidebar[side=right]{right:0!important;-webkit-transform:translateX(100%)!important;transform:translateX(100%)!important}amp-sidebar[side][open]{-webkit-transform:translateX(0)!important;transform:translateX(0)!important}amp-sidebar[side]{-webkit-transition:-webkit-transform 233ms cubic-bezier(0,0,.21,1);transition:-webkit-transform 233ms cubic-bezier(0,0,.21,1);transition:transform 233ms cubic-bezier(0,0,.21,1);transition:transform 233ms cubic-bezier(0,0,.21,1),-webkit-transform 233ms cubic-bezier(0,0,.21,1)}.i-amphtml-toolbar>ul{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-ms-flex-wrap:wrap;flex-wrap:wrap;overflow:auto;list-style-type:none;padding:0;margin:0}.i-amphtml-sidebar-mask{position:fixed!important;top:0!important;left:0!important;width:100vw!important;height:100vh!important;opacity:0.2;background-image:none!important;background-color:#000;z-index:2147483646}
+/*# sourceURL=/extensions/amp-sidebar/0.1/amp-sidebar.css*/</style><style amp-extension="amp-fit-text">.i-amphtml-fit-text-content,.i-amphtml-fit-text-content.i-amphtml-fill-content{display:block;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.i-amphtml-fit-text-content-overflown{display:block;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden}
+/*# sourceURL=/extensions/amp-fit-text/0.1/amp-fit-text.css*/</style><style amp-extension="amp-social-share">.amp-social-share-facebook{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M211.9 197.4h-36.7v59.9h36.7v175.8h70.5V256.5h49.2l5.2-59.1h-54.4v-33.7c0-13.9 2.8-19.5 16.3-19.5h38.2V82.9h-48.8c-52.5 0-76.1 23.1-76.1 67.3-.1 38.6-.1 47.2-.1 47.2z'/%3E%3C/svg%3E")}.amp-social-share-pinterest{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M266.6 76.5c-100.2 0-150.7 71.8-150.7 131.7 0 36.3 13.7 68.5 43.2 80.6 4.8 2 9.2.1 10.6-5.3 1-3.7 3.3-13 4.3-16.9 1.4-5.3.9-7.1-3-11.8-8.5-10-13.9-23-13.9-41.3 0-53.3 39.9-101 103.8-101 56.6 0 87.7 34.6 87.7 80.8 0 60.8-26.9 112.1-66.8 112.1-22.1 0-38.6-18.2-33.3-40.6 6.3-26.7 18.6-55.5 18.6-74.8 0-17.3-9.3-31.7-28.4-31.7-22.5 0-40.7 23.3-40.7 54.6 0 19.9 6.7 33.4 6.7 33.4s-23.1 97.8-27.1 114.9c-8.1 34.1-1.2 75.9-.6 80.1.3 2.5 3.6 3.1 5 1.2 2.1-2.7 28.9-35.9 38.1-69 2.6-9.4 14.8-58 14.8-58 7.3 14 28.7 26.3 51.5 26.3 67.8 0 113.8-61.8 113.8-144.5-.1-62.6-53.1-120.8-133.6-120.8z'/%3E%3C/svg%3E")}.amp-social-share-linkedin{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M186.4 142.4c0 19-15.3 34.5-34.2 34.5-18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5 18.9 0 34.2 15.5 34.2 34.5zm-5 58.9h-57.8v186.8h57.8V201.3zm92.4 0h-55.4v186.8h55.4v-98c0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9v98H398V269.8c0-50-28.3-74.2-68-74.2-39.6 0-56.3 30.9-56.3 30.9v-25.2h.1z'/%3E%3C/svg%3E")}.amp-social-share-gplus{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M179.7 237.6v46.6h77c-3.1 20-23.3 58.7-77 58.7-46.3 0-84.1-38.5-84.1-85.9 0-47.4 37.8-85.9 84.1-85.9 26.4 0 44 11.3 54.1 21l36.8-35.5C247 134.4 216.4 121 179.7 121 104.7 121 44 181.8 44 257s60.7 136 135.7 136C258 393 310 337.8 310 260.1c0-8.9-1-15.7-2.1-22.5H179.7zm288.3-.9h-38.7V198h-38.6v38.7H352v38.6h38.7V314h38.6v-38.7H468'/%3E%3C/svg%3E")}.amp-social-share-email{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M101.3 141.6v228.9h309.5V141.6H101.3zm274.4 26.2L256 259.3l-119.6-91.5h239.3zm-248.1 26.3l64.1 49.1-64.1 64.1V194.1zm.2 150.1l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7H127.8zm256.6-36.4L320 243.4l64.4-49.3v113.7z'/%3E%3C/svg%3E")}.amp-social-share-twitter{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cpath d='M0 0h400v400H0z'/%3E%3Cpath fill='%23FFF' fill-rule='nonzero' d='M153.62 301.59c94.34 0 145.94-78.16 145.94-145.94 0-2.22 0-4.43-.15-6.63A104.36 104.36 0 0 0 325 122.47a102.38 102.38 0 0 1-29.46 8.07 51.47 51.47 0 0 0 22.55-28.37 102.79 102.79 0 0 1-32.57 12.45c-15.9-16.906-41.163-21.044-61.625-10.093-20.461 10.95-31.032 34.266-25.785 56.873A145.62 145.62 0 0 1 92.4 107.81c-13.614 23.436-6.66 53.419 15.88 68.47A50.91 50.91 0 0 1 85 169.86v.65c.007 24.416 17.218 45.445 41.15 50.28a51.21 51.21 0 0 1-23.16.88c6.72 20.894 25.976 35.208 47.92 35.62a102.92 102.92 0 0 1-63.7 22 104.41 104.41 0 0 1-12.21-.74 145.21 145.21 0 0 0 78.62 23'/%3E%3C/g%3E%3C/svg%3E")}.amp-social-share-tumblr{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='%23fff' d='M210.8 80.3c-2.3 18.3-6.4 33.4-12.4 45.2-6 11.9-13.9 22-23.9 30.5-9.9 8.5-21.8 14.9-35.7 19.5v50.6h38.9v124.5c0 16.2 1.7 28.6 5.1 37.1 3.4 8.5 9.5 16.6 18.3 24.2 8.8 7.6 19.4 13.4 31.9 17.5s26.8 6.1 43 6.1c14.3 0 27.6-1.4 39.9-4.3 12.3-2.9 26-7.9 41.2-15v-55.9c-17.8 11.7-35.7 17.5-53.7 17.5-10.1 0-19.1-2.4-27-7.1-5.9-3.5-10-8.2-12.2-14-2.2-5.8-3.3-19.1-3.3-39.7v-91.1h84.6v-55.8h-84.4v-90h-50.3z'/%3E%3C/svg%3E")}.amp-social-share-whatsapp{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='46' height='46'%3E%3Cpath fill='%23FFF' d='M35.4 10.4C32 6.9 27.3 5 22.5 5 12.3 5 4.1 13.3 4.2 23.4c0 3.2.9 6.3 2.4 9.1L4 42l9.7-2.5c2.7 1.5 5.7 2.2 8.7 2.2 10.1 0 18.3-8.3 18.3-18.4 0-4.9-1.9-9.5-5.3-12.9zM22.5 38.6c-2.7 0-5.4-.7-7.7-2.1l-.6-.3-5.8 1.5L9.9 32l-.4-.6c-4.4-7.1-2.3-16.5 4.9-20.9 7.2-4.4 16.5-2.3 20.9 4.9 4.4 7.2 2.3 16.5-4.9 20.9-2.3 1.5-5.1 2.3-7.9 2.3zm8.8-11.1l-1.1-.5s-1.6-.7-2.6-1.2c-.1 0-.2-.1-.3-.1-.3 0-.5.1-.7.2 0 0-.1.1-1.5 1.7-.1.2-.3.3-.5.3h-.1c-.1 0-.3-.1-.4-.2l-.5-.2c-1.1-.5-2.1-1.1-2.9-1.9-.2-.2-.5-.4-.7-.6-.7-.7-1.4-1.5-1.9-2.4l-.1-.2c-.1-.1-.1-.2-.2-.4 0-.2 0-.4.1-.5 0 0 .4-.5.7-.8.2-.2.3-.5.5-.7.2-.3.3-.7.2-1-.1-.5-1.3-3.2-1.6-3.8-.2-.3-.4-.4-.7-.5h-1.1c-.2 0-.4.1-.6.1l-.1.1c-.2.1-.4.3-.6.4-.2.2-.3.4-.5.6-.7.9-1.1 2-1.1 3.1 0 .8.2 1.6.5 2.3l.1.3c.9 1.9 2.1 3.6 3.7 5.1l.4.4c.3.3.6.5.8.8 2.1 1.8 4.5 3.1 7.2 3.8.3.1.7.1 1 .2h1c.5 0 1.1-.2 1.5-.4.3-.2.5-.2.7-.4l.2-.2c.2-.2.4-.3.6-.5.2-.2.4-.4.5-.6.2-.4.3-.9.4-1.4v-.7s-.1-.1-.3-.2z'/%3E%3C/svg%3E")}.amp-social-share-line{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 511.99'%3E%3Cpath d='M443.2 233.29c0-84.14-84.35-152.6-188-152.6s-188 68.46-188 152.6c0 75.43 66.9 138.61 157.26 150.55 6.13 1.32 14.46 4 16.57 9.27 1.89 4.76 1.24 12.2.61 17 0 0-2.21 13.26-2.69 16.09-.82 4.75-3.78 18.6 16.29 10.14s108.21-63.76 147.66-109.16c27.25-29.89 40.3-60.18 40.3-93.89zm-254.38 44.92a3.67 3.67 0 0 1-3.66 3.67h-52.69a3.6 3.6 0 0 1-2.53-1l-.06-.05v-.05a3.65 3.65 0 0 1-1-2.53v-81.96a3.66 3.66 0 0 1 3.66-3.66h13.19a3.66 3.66 0 0 1 3.66 3.66v65.07h35.84a3.66 3.66 0 0 1 3.66 3.66zm31.8 0a3.65 3.65 0 0 1-3.66 3.65h-13.2a3.65 3.65 0 0 1-3.66-3.65v-81.92a3.66 3.66 0 0 1 3.66-3.66H217a3.66 3.66 0 0 1 3.66 3.66zm90.78 0a3.65 3.65 0 0 1-3.66 3.65h-13.19a3.67 3.67 0 0 1-.94-.12h-.05l-.25-.08h-.11l-.18-.08-.17-.08-.11-.06-.22-.14a3.45 3.45 0 0 1-.93-.9L254 229.56v48.66a3.66 3.66 0 0 1-3.67 3.65H237.1a3.65 3.65 0 0 1-3.66-3.65v-81.93a3.66 3.66 0 0 1 3.66-3.66h13.86l.21.05h.13l.21.07h.12a1.31 1.31 0 0 1 .21.08l.12.06.19.11a.41.41 0 0 1 .11.07l.19.13.1.07.19.16.07.07a2.28 2.28 0 0 1 .22.22 3.58 3.58 0 0 1 .28.37L290.89 245v-48.71a3.66 3.66 0 0 1 3.66-3.66h13.19a3.66 3.66 0 0 1 3.66 3.66zm72.83-68.74a3.66 3.66 0 0 1-3.65 3.67h-35.84V227h35.84a3.66 3.66 0 0 1 3.65 3.67v13.19a3.65 3.65 0 0 1-3.65 3.66h-35.84v13.85h35.84a3.65 3.65 0 0 1 3.65 3.66v13.19a3.66 3.66 0 0 1-3.65 3.67h-52.7a3.66 3.66 0 0 1-2.53-1l-.05-.05a.12.12 0 0 1-.05-.05 3.65 3.65 0 0 1-1-2.53V196.3a3.6 3.6 0 0 1 1-2.52l.06-.07a3.63 3.63 0 0 1 2.54-1h52.7a3.66 3.66 0 0 1 3.65 3.67z' fill='%23fff' data-name='レイヤー 1'/%3E%3C/svg%3E")}.amp-social-share-sms{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg width='30' height='29' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23FFF' stroke-width='3' d='M8.73 26v-5.658H2V2h25.97L28 20.355l-12.062.042z' fill='none' fill-rule='evenodd'/%3E%3C/svg%3E")}.amp-social-share-system{background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg fill='%23fff' height='24' width='24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z'/%3E%3C/svg%3E")}amp-social-share{background-repeat:no-repeat;background-position:50%;background-size:contain;text-decoration:none;cursor:pointer;position:relative}.amp-social-share-twitter{background-color:#1da1f2}.amp-social-share-facebook{background-color:#3b5998}.amp-social-share-pinterest{background-color:#bd081c}.amp-social-share-linkedin{background-color:#0077b5}.amp-social-share-gplus{background-color:#dc4e41}.amp-social-share-tumblr{background-color:#3c5a77}.amp-social-share-email{background-color:#000}.amp-social-share-whatsapp{background-color:#25d366}.amp-social-share-line{background-color:#52b448}.amp-social-share-sms{background-color:#ca2b63}.amp-social-share-system{background-color:#000}
+/*# sourceURL=/extensions/amp-social-share/0.1/amp-social-share.css*/</style><style amp-extension="amp-carousel">.amp-carousel-slide>.i-amphtml-replaced-content{-o-object-fit:contain;object-fit:contain}.amp-carousel-button{position:absolute;box-sizing:border-box;top:50%;height:34px;width:34px;border-radius:2px;opacity:0;pointer-events:all;background-color:rgba(0,0,0,0.5);background-position:50% 50%;background-repeat:no-repeat;-webkit-transform:translateY(-50%);transform:translateY(-50%);visibility:hidden;z-index:10}.amp-mode-mouse .amp-carousel-button,amp-carousel[controls] .amp-carousel-button{opacity:1;visibility:visible}.amp-carousel-button-prev{left:16px;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='%23fff'%3E%3Cpath d='M15 8.25H5.87l4.19-4.19L9 3 3 9l6 6 1.06-1.06-4.19-4.19H15v-1.5z'/%3E%3C/svg%3E");background-size:18px 18px}.amp-carousel-button-next{right:16px;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='18' height='18' fill='%23fff'%3E%3Cpath d='M9 3L7.94 4.06l4.19 4.19H3v1.5h9.13l-4.19 4.19L9 15l6-6z'/%3E%3C/svg%3E");background-size:18px 18px}.i-amphtml-carousel-button-start-hint .amp-carousel-button:not(.amp-disabled){-webkit-animation:i-amphtml-carousel-hint 1s ease-in 3s 1 normal both;animation:i-amphtml-carousel-hint 1s ease-in 3s 1 normal both}.amp-mode-mouse .i-amphtml-carousel-button-start-hint .amp-carousel-button:not(.amp-disabled){-webkit-animation:none;animation:none}@-webkit-keyframes i-amphtml-carousel-hint{0%{opacity:1;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes i-amphtml-carousel-hint{0%{opacity:1;visibility:visible}to{opacity:0;visibility:hidden}}amp-carousel .amp-carousel-button.amp-disabled{-webkit-animation:none;animation:none;opacity:0;visibility:hidden}.i-amphtml-slides-container{display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important;-ms-flex-wrap:nowrap;flex-wrap:nowrap;height:100%!important;left:0;overflow-x:auto!important;overflow-y:hidden!important;position:absolute!important;top:0;width:100%!important;-webkit-scroll-snap-type:x mandatory!important;scroll-snap-type:x mandatory!important;padding-bottom:20px!important;box-sizing:content-box!important;-webkit-overflow-scrolling:touch!important}.i-amphtml-slides-container.i-amphtml-no-scroll{overflow-x:hidden!important}.i-amphtml-slide-item{-webkit-box-align:center!important;-ms-flex-align:center!important;align-items:center!important;display:none!important;-webkit-box-flex:0!important;-ms-flex:0 0 100%!important;flex:0 0 100%!important;height:100%!important;-webkit-box-pack:center!important;-ms-flex-pack:center!important;justify-content:center!important;position:relative!important;scroll-snap-align:center!important;width:100%!important}.i-amphtml-slide-item>*{height:100%;width:100%;overflow:hidden!important}.i-amphtml-slide-item-show{display:-webkit-box!important;display:-ms-flexbox!important;display:flex!important}.i-amphtml-carousel-end-marker,.i-amphtml-carousel-start-marker{background-color:transparent!important;display:block!important;-webkit-box-flex:0!important;-ms-flex:0 0 1px!important;flex:0 0 1px!important;height:100%!important;position:relative!important;scroll-snap-align:center!important;width:1px!important}.i-amphtml-carousel-start-marker{-webkit-box-ordinal-group:0!important;-ms-flex-order:-1!important;order:-1!important;margin-left:-1px!important}.i-amphtml-carousel-end-marker{-webkit-box-ordinal-group:100000001!important;-ms-flex-order:100000000!important;order:100000000!important;margin-right:-1px!important}.i-amphtml-slidescroll-no-snap.i-amphtml-slides-container{-webkit-scroll-snap-type:none!important;scroll-snap-type:none!important}.i-amphtml-slidescroll-no-snap .i-amphtml-slide-item{scroll-snap-align:none!important}.i-amphtml-slidescroll-no-snap.i-amphtml-slides-container.i-amphtml-no-scroll{-webkit-overflow-scrolling:auto!important}.amp-scrollable-carousel-slide{display:inline-block!important;margin-left:8px}.amp-scrollable-carousel-slide:first-child{margin-left:0px}.i-amphtml-scrollable-carousel-container{white-space:nowrap!important;overflow-x:auto!important;overflow-y:hidden!important;-webkit-overflow-scrolling:touch!important}
+/*# sourceURL=/extensions/amp-carousel/0.1/amp-carousel.css*/</style><meta charset="utf-8" class="next-head next-head"><title class="next-head">ifarmer.vn | Tôi là nông dân</title><style amp-custom="" class="next-head">html {
+  font-family: "Roboto Condensed", sans-serif;
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0; }
+
+article, aside, footer, header, nav, section {
+  display: block; }
+
+h1 {
+  font-size: 2em;
+  margin: .67em 0; }
+
+figcaption, figure, main {
+  display: block; }
+
+figure {
+  margin: 1em 40px; }
+
+hr {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: 0;
+  overflow: visible; }
+
+pre {
+  font-family: monospace,monospace;
+  font-size: 1em; }
+
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects; }
+
+abbr[title] {
+  border-bottom: none;
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted; }
+
+b, strong {
+  font-weight: inherit;
+  font-weight: bolder; }
+
+code, kbd, samp {
+  font-family: monospace,monospace;
+  font-size: 1em; }
+
+dfn {
+  font-style: italic; }
+
+mark {
+  background-color: #ff0;
+  color: #000; }
+
+small {
+  font-size: 80%; }
+
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub {
+  bottom: -.25em; }
+
+sup {
+  top: -.5em; }
+
+audio, video {
+  display: inline-block; }
+
+audio:not([controls]) {
+  display: none;
+  height: 0; }
+
+img {
+  border-style: none; }
+
+svg:not(:root) {
+  overflow: hidden; }
+
+button, input, optgroup, select, textarea {
+  font-family: sans-serif;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0; }
+
+button, input {
+  overflow: visible; }
+
+button, select {
+  text-transform: none; }
+
+/* 1 */
+
+[type=reset], [type=submit], button, html [type=button] {
+  -webkit-appearance: button; }
+
+[type=button]::-moz-focus-inner, [type=reset]::-moz-focus-inner, [type=submit]::-moz-focus-inner, button::-moz-focus-inner {
+  border-style: none;
+  padding: 0; }
+
+[type=button]:-moz-focusring, [type=reset]:-moz-focusring, [type=submit]:-moz-focusring, button:-moz-focusring {
+  outline: 1px dotted ButtonText; }
+
+fieldset {
+  padding: .35em .75em .625em; }
+
+legend {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: inherit;
+  display: table;
+  max-width: 100%;
+  padding: 0;
+  white-space: normal; }
+
+progress {
+  display: inline-block;
+  vertical-align: baseline; }
+
+textarea {
+  overflow: auto; }
+
+[type=checkbox], [type=radio] {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0; }
+
+[type=number]::-webkit-inner-spin-button, [type=number]::-webkit-outer-spin-button {
+  height: auto; }
+
+[type=search] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px; }
+
+[type=search]::-webkit-search-cancel-button, [type=search]::-webkit-search-decoration {
+  -webkit-appearance: none; }
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit; }
+
+/* 1 */
+
+menu, details {
+  display: block; }
+
+summary {
+  display: list-item; }
+
+canvas {
+  display: inline-block; }
+
+[hidden], template {
+  display: none; }
+
+.border-box, a, article, body, code, dd, div, dl, dt, fieldset, footer, form, h1, h2, h3, h4, h5, h6, header, html, input[type=email], input[type=number], input[type=password], input[type=tel], input[type=text], input[type=url], legend, li, main, ol, p, pre, section, table, td, textarea, th, tr, ul {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+/*
+ default  | ------------  not small  --------------------------------->
+ default  | --- medium --- | --- large ------------------------------->
+ default  | --- medium --- | --- only large --- | --- extra large ---->
+          |                |                    |
+         30em             64em                 75em
+ */
+
+.blue {
+  color: #365899; }
+
+.white {
+  color: #777; }
+
+.white {
+  color: #FFFFFF; }
+
+.green {
+  color: #0f9d58; }
+
+.orange {
+  color: #FF6633; }
+
+.turquoise {
+  color: #33CCCC; }
+
+.cta-colour {
+  color: #33A870; }
+
+.gray-light {
+  color: #F2F2F2; }
+
+.gray-middle {
+  color: #EAEAEA; }
+
+.gray-dark {
+  color: #DDDDDD; }
+
+.gray-darkest {
+  color: #222222; }
+
+.bg-white {
+  background-color: #FFFFFF; }
+
+.bg-white {
+  background-color: #777; }
+
+.bg-blue {
+  background-color: #365899; }
+
+.bg-green {
+  background-color: #0f9d58; }
+
+.bg-orange {
+  background-color: #FF6633; }
+
+.bg-turquoise {
+  background-color: #33CCCC; }
+
+.bg-cta-colour {
+  background-color: #33A870; }
+
+.bg-gray-light {
+  background-color: #F2F2F2; }
+
+.bg-gray-middle {
+  background-color: #EAEAEA; }
+
+.bg-gray-dark {
+  background-color: #DDDDDD; }
+
+.bg-gray-darkest {
+  background-color: #222222; }
+
+.b--white {
+  border-color: #777; }
+
+.b--blue {
+  border-color: #365899; }
+
+.b--white {
+  border-color: #FFFFFF; }
+
+.b--green {
+  border-color: #0f9d58; }
+
+.b--orange {
+  border-color: #FF6633; }
+
+.b--turquoise {
+  border-color: #33CCCC; }
+
+.b--cta-colour {
+  border-color: #33A870; }
+
+.b--gray-light {
+  border-color: #F2F2F2; }
+
+.b--gray-middle {
+  border-color: #EAEAEA; }
+
+.b--gray-dark {
+  border-color: #DDDDDD; }
+
+.b--gray-darkest {
+  border-color: #222222; }
+
+.gray {
+  color: #777; }
+
+.b--light-gray {
+  border-color: #eee; }
+
+.bg-light-gray {
+  background-color: #eee; }
+
+.b--gray {
+  border-color: #777; }
+
+.bg-light-red {
+  background-color: #0f9d58; }
+
+.hover-bg-red:hover {
+  background-color: #ff4136; }
+
+.hover-bg-red:focus {
+  background-color: #ff4136; }
+
+.light-blue {
+  color: #96ccff; }
+
+.topnav a {
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  margin-right: 2px;
+  text-decoration: none;
+  font-size: 17px;
+  border-radius: 12px 12px 0px 0px;
+  background-color: #000; }
+
+.topnav a:hover {
+  background-color: #4CAF50;
+  color: black; }
+
+.topnav a.active {
+  background-color: #4dd;
+  color: white; }
+
+footer a {
+  text-decoration: none; }
+
+@media screen and (min-width: 60em) {
+  .top-menu a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 4px;
+    background-color: #74ab74; }
+  .top-menu a:hover {
+    background-color: #4CAF50;
+    color: #945353; }
+  .top-menu a.active {
+    background-color: #4dd;
+    color: white; } }
+
+.ba {
+  border-style: solid;
+  border-width: 1px; }
+
+.br2 {
+  border-radius: .25rem; }
+
+.br3 {
+  border-radius: .5rem; }
+
+.right-0 {
+  right: 0; }
+
+.dn {
+  display: none; }
+
+.db {
+  display: block; }
+
+.dib {
+  display: inline-block; }
+
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.flex-wrap {
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap; }
+
+.justify-center {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center; }
+
+.b {
+  font-weight: bold; }
+
+.lh-title {
+  line-height: 1.25; }
+
+.link {
+  text-decoration: none;
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in; }
+
+.link:link {
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in; }
+
+.link:visited {
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in; }
+
+.link:hover {
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in; }
+
+.link:active {
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in; }
+
+.link:focus {
+  -webkit-transition: color .15s ease-in;
+  transition: color .15s ease-in;
+  outline: 1px dotted currentColor; }
+
+.mw9 {
+  max-width: 75rem; }
+
+.w5 {
+  width: 16rem; }
+
+.w-100 {
+  width: 100%; }
+
+.absolute {
+  position: absolute; }
+
+.pa0 {
+  padding: 0; }
+
+.pa1 {
+  padding: .25rem; }
+
+.pa2 {
+  padding: .5rem; }
+
+.pa3 {
+  padding: 1rem; }
+
+.pl2 {
+  padding-left: .5rem; }
+
+.pl3 {
+  padding-left: 1rem; }
+
+.pr2 {
+  padding-right: .5rem; }
+
+.pb3 {
+  padding-bottom: 1rem; }
+
+.pv2 {
+  padding-top: .5rem;
+  padding-bottom: .5rem; }
+
+.ph2 {
+  padding-left: .5rem;
+  padding-right: .5rem; }
+
+.ph3 {
+  padding-left: 1rem;
+  padding-right: 1rem; }
+
+.ma2 {
+  margin: .5rem; }
+
+.ma3 {
+  margin: 1rem; }
+
+.mt1 {
+  margin-top: .25rem; }
+
+.mt2 {
+  margin-top: .5rem; }
+
+.mt3 {
+  margin-top: 1rem; }
+
+.mt4 {
+  margin-top: 2rem; }
+
+.mt5 {
+  margin-top: 4rem; }
+
+.nt4 {
+  margin-top: -2rem; }
+
+.no-underline {
+  text-decoration: none; }
+
+.tc {
+  text-align: center; }
+
+.f2 {
+  font-size: 2.25rem; }
+
+.f3 {
+  font-size: 1.5rem; }
+
+.f4 {
+  font-size: 1.25rem; }
+
+.f5 {
+  font-size: 1rem; }
+
+.f6 {
+  font-size: .875rem; }
+
+.center {
+  margin-right: auto;
+  margin-left: auto; }
+
+.mr-auto {
+  margin-right: auto; }
+
+.ml-auto {
+  margin-left: auto; }
+
+@media screen and (min-width: 30em) {
+  .db-ns {
+    display: block; } }
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+  .w-50-m {
+    width: 50%; } }
+
+@media screen and (min-width: 60em) {
+  .dn-l {
+    display: none; } }
+
+@media screen and (min-width: 60em) {
+  .db-l {
+    display: block; } }
+
+@media screen and (min-width: 60em) {
+  .dib-l {
+    display: inline-block; } }
+
+@media screen and (min-width: 60em) {
+  .flex-l {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex; } }
+
+@media screen and (min-width: 60em) {
+  .w-25-l {
+    width: 25%; } }
+
+@media screen and (min-width: 60em) {
+  .w-50-l {
+    width: 50%; } }
+
+@media screen and (min-width: 60em) {
+  .w-100-l {
+    width: 100%; } }
+
+@media screen and (min-width: 60em) {
+  .pa2-l {
+    padding: .5rem; } }
+
+@media screen and (min-width: 60em) {
+  .pa3-l {
+    padding: 1rem; } }
+
+@media screen and (min-width: 60em) {
+  .pl3-l {
+    padding-left: 1rem; } }
+
+@media screen and (min-width: 60em) {
+  .ph5-l {
+    padding-left: 4rem;
+    padding-right: 4rem; } }
+
+.shadow-6 {
+  -webkit-box-shadow: 0 32px 44px -24px rgba(0, 0, 0, 0.23), 0 20px 25px 0 rgba(0, 0, 0, 0.12), 0 15px 10px -10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 32px 44px -24px rgba(0, 0, 0, 0.23), 0 20px 25px 0 rgba(0, 0, 0, 0.12), 0 15px 10px -10px rgba(0, 0, 0, 0.2);
+  -webkit-transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1);
+  transition: all 370ms cubic-bezier(0.34, 1.61, 0.7, 1); }
+
+.shadow-6:hover {
+  -webkit-transform: scale(1.03);
+          transform: scale(1.03);
+  -webkit-box-shadow: 0 26px 50px -10px rgba(0, 0, 0, 0.38), 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 15px 10px -10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 26px 50px -10px rgba(0, 0, 0, 0.38), 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 15px 10px -10px rgba(0, 0, 0, 0.2); }
+
+html {
+  font-family: 'Helvetica', 'Arial', sans-serif; }
+
+.top-06 {
+  top: .6rem; }
+
+.mw-13 {
+  max-width: 13rem; }
+
+.w-max-content {
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content; }
+
+.w1-1 {
+  width: 1.1rem; }
+
+.h1-1 {
+  height: 1.1rem; }
+
+.w5r {
+  width: 5rem; }
+
+.h5r {
+  height: 5rem; }
+
+.f8 {
+  font-size: .65rem; }
+
+.min-h-4 {
+  min-height: 8rem; }
+
+.caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ddd;
+  font-size: small;
+  max-height: 40%; }
+
+/*Not Small*/
+
+@media screen and (min-width: 30em) {
+  .min-h-auto-ns {
+    min-height: auto; }
+  .ml-12-ns {
+    margin-left: 12rem; }
+  .w-12-ns {
+    width: 12rem; }
+  .h-12-ns {
+    height: 12rem; } }
+
+@media screen and (min-width: 60em) {
+  .w24r-l {
+    width: 24rem; }
+  .pr25r-l {
+    padding-right: 25rem; }
+  .caption {
+    font-size: 2rem; } }
+</style><link rel="canonical" href="/" class="next-head"><script async="" custom-element="amp-fit-text" src="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js" class="next-head"></script><meta name="description" content="ifarmer.vn - Tôi là nông dân. Cầu nối giữa người nông dân và người tiêu dùng" class="next-head"><meta property="og:title" content="ifarmer.vn | Tôi là nông dân" class="next-head"><meta property="og:fb:app_id" content="236452487087200" class="next-head"><meta property="og:image" content="http://ifarmer.vn/assets/img/icons/favicon-194x194.png" class="next-head"><meta property="og:description" content="ifarmer.vn - Tôi là nông dân. Cầu nối giữa người nông dân và người tiêu dùng" class="next-head"><meta property="og:url" content="http://ifarmer.vn" class="next-head"><meta name="twitter:card" content="ifarmer.vn - Tôi là nông dân. Cầu nối giữa người nông dân và người tiêu dùng" class="next-head"><script async="" custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js" class="next-head"></script><script async="" custom-element="amp-facebook-like" src="https://cdn.ampproject.org/v0/amp-facebook-like-0.1.js" class="next-head"></script><link rel="preload" href="/_next/b6186087-77cc-4c5e-96e4-c318de948159/pagehome/home.js" as="script"><link rel="preload" href="/_next/b6186087-77cc-4c5e-96e4-c318de948159/page/_error.js" as="script"><link rel="preload" href="/_next/b6186087-77cc-4c5e-96e4-c318de948159/main.js" as="script"><link rel="icon" type="image/png" href="/assets/img/icons/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="/assets/img/icons/favicon-194x194.png" sizes="192x194"><link rel="icon" type="image/png" href="/assets/img/icons/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png" href="/assets/img/icons/favicon-192x192.png" sizes="192x192"><link rel="icon" type="image/png" href="/assets/img/icons/favicon-16x16.png" sizes="16x16"><link rel="shortcut icon" href="/assets/img/icons/favicon.ico"><meta name="viewport" content="width=device-width,minimum-scale=1"><meta name="amp-google-client-id-api" content="googleanalytics"><meta name="robots" content="index, follow"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" media="all" i-amphtml-timeout="1"><style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript><script async="" src="https://cdn.ampproject.org/v0.js"></script><script async="" custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script><script async="" custom-element="amp-accordion" src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js"></script><script async="" custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script><script async="" custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script><script async="" custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script><link rel="preload" referrerpolicy="origin" href="https://connect.facebook.net/en_US/sdk.js" as="fetch"><link rel="preload" referrerpolicy="origin" href="https://d-40413007301804885994.ampproject.net/1533168552513/frame.html" as="fetch"><link rel="preload" referrerpolicy="origin" href="https://3p.ampproject.net/1533168552513/f.js" as="fetch"><link rel="preconnect" href="https://www.google-analytics.com" referrerpolicy="origin"><script async="" custom-element="amp-crypto-polyfill" data-script="amp-crypto-polyfill" i-amphtml-inserted="" src="https://cdn.ampproject.org/rtv/011533168552513/v0/amp-crypto-polyfill-0.1.js"></script></head><body id="__next" style="opacity: 1; visibility: visible; animation: none 0s ease 0s 1 normal none running;" class="amp-mode-mouse"><amp-analytics type="googleanalytics" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" aria-hidden="true" style="width: 1px; height: 1px; display: none;"><script type="application/json">{"vars":{"gaPageName":"Ifarmer","account":"UA-119170930-1"},"triggers":{"trackPageView":{"on":"visible","request":"pageview"},"trackClicks":{"on":"click","selector":"[data-vars-click-ga-trigger]","request":"event","vars":{"eventCategory":"click","eventAction":"${clickGaTrigger}","eventLabel":"${label}"}},"trackConversions":{"on":"click","selector":"[data-ga-trigger=ga-conversion]","request":"event","vars":{"eventCategory":"conversion","eventAction":"${action}","eventLabel":"${merchant}","anonymizeIP":""}}}}</script></amp-analytics><header class=""><div id="banner" class="bg-green"><div class="mw9 flex center f2"><div class="pl2 pl3-l pr2 pv2 flex justify-center white"><a href="/" class="b lh-title dn db-ns no-underline link white" data-vars-click-ga-trigger="click_nav_item" data-vars-label="name:home" title="iFarmer">iFarmer</a><amp-img width="48" height="48" class="dib i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" src="/assets/img/icons/favicon-96x96.png" style="width: 48px; height: 48px;"><img decoding="async" src="/assets/img/icons/favicon-96x96.png" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img><div class="pl3"><span class="f4 white">Tôi là nông dân</span></div></div><div id="target-element-right" style="display: none;"></div><div class="dn-l pv2 pl2 pr2 absolute right-0" on="tap:sidebar-right.toggle" role="button" tabindex="1"><i class="fas fa-align-justify white lh-title"></i></div></div></div></header><amp-sidebar id="sidebar-right" layout="nodisplay" side="right" class="i-amphtml-element i-amphtml-layout-nodisplay i-amphtml-display i-amphtml-overlay i-amphtml-scrollable" aria-hidden="true" role="menu" tabindex="-1" style="display: none;"><i class="fas fa-times green f2 ma2 absolute right-0" title="close sidebar" on="tap:sidebar-right.close" role="button" tabindex="0"></i><nav toolbar="(min-width: 960px)" toolbar-target="target-element-right" class="amp-sidebar-toolbar-target-hidden"><ul class="top-menu w5 w-100-l ma3 pa0 f3"><li class="db dib-l pa3 pa2-l"><a href="/" class="link" data-vars-click-ga-trigger="click_sidebar_item" data-vars-label="name:home" title="Trang chủ">Trang chủ</a></li><li class="db dib-l pa3 pa2-l"><a href="/gioi-thieu" class="link" data-vars-click-ga-trigger="click_sidebar_item" data-vars-label="name:about" title="Giới thiệu">Giới thiệu</a></li><li class="db dib-l pa3 pa2-l"><a href="/san-pham/dau-gac" class="link" data-vars-click-ga-trigger="click_sidebar_item" data-vars-label="name:product" title="Sản phẩm">Sản phẩm</a></li><li class="db dib-l pa3 pa2-l"><a href="/bai-viet/cong-dung-cua-dau-gac-doi-voi-suc-khoe-va-sac-dep" class="link" data-vars-click-ga-trigger="click_sidebar_item" data-vars-label="name:article" title="Bài viết">Bài viết</a></li><li class="db dib-l pa3 pa2-l"><a href="/lien-he" class="link" data-vars-click-ga-trigger="click_sidebar_item" data-vars-label="name:contact" title="Liên hệ 091 832 7819">Liên hệ 091 832 7819</a></li></ul></nav><button class="i-amphtml-screen-reader" tabindex="-1">Close the sidebar</button></amp-sidebar><div><div data-reactroot=""><main class="mw9 center pa2 pa3-l gray"><h1>ifarmer.vn - Tôi là nông dân</h1><p>Cầu nối giữa người nông dân và người tiêu dùng</p><div><span class="dib"><amp-social-share type="facebook" width="40" height="30" data-param-app_id="236452487087200" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined amp-social-share-facebook i-amphtml-layout" style="width: 40px; height: 30px;" role="button" tabindex="0"></amp-social-share></span><a href="https://m.me/ifarmer.vn" rel="nofollow" target="_blank"><i class="fab fa-facebook-messenger f2 ph3 blue"> </i></a><span class="dib"><amp-facebook-like width="310" height="23" layout="fixed" data-layout="standard" data-href="https://www.facebook.com/ifarmer.vn" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 310px; height: 23px;"><div class="i-amphtml-loading-container i-amphtml-fill-content amp-hidden"><div class="i-amphtml-loader">
+        <div class="i-amphtml-loader-dot"></div>
+        <div class="i-amphtml-loader-dot"></div>
+        <div class="i-amphtml-loader-dot"></div>
+      </div></div><iframe src="https://d-40413007301804885994.ampproject.net/1533168552513/frame.html" name="{&quot;host&quot;:&quot;d-40413007301804885994.ampproject.net&quot;,&quot;type&quot;:&quot;facebook&quot;,&quot;count&quot;:1,&quot;attributes&quot;:{&quot;layout&quot;:&quot;standard&quot;,&quot;href&quot;:&quot;https://www.facebook.com/ifarmer.vn&quot;,&quot;width&quot;:310,&quot;height&quot;:23,&quot;_context&quot;:{&quot;ampcontextVersion&quot;:&quot;1533168552513&quot;,&quot;ampcontextFilepath&quot;:&quot;https://3p.ampproject.net/1533168552513/ampcontext-v0.js&quot;,&quot;sourceUrl&quot;:&quot;http://ifarmer.vn/&quot;,&quot;referrer&quot;:&quot;&quot;,&quot;canonicalUrl&quot;:&quot;http://ifarmer.vn/&quot;,&quot;pageViewId&quot;:&quot;4415&quot;,&quot;location&quot;:{&quot;href&quot;:&quot;http://ifarmer.vn/&quot;},&quot;startTime&quot;:1533381061287,&quot;tagName&quot;:&quot;AMP-FACEBOOK-LIKE&quot;,&quot;mode&quot;:{&quot;localDev&quot;:false,&quot;development&quot;:false,&quot;minified&quot;:true,&quot;lite&quot;:false,&quot;test&quot;:false,&quot;version&quot;:&quot;1533168552513&quot;,&quot;rtvVersion&quot;:&quot;011533168552513&quot;},&quot;canary&quot;:false,&quot;hidden&quot;:false,&quot;initialLayoutRect&quot;:{&quot;left&quot;:90,&quot;top&quot;:195,&quot;width&quot;:310,&quot;height&quot;:23},&quot;initialIntersection&quot;:{&quot;time&quot;:10584.900000000289,&quot;rootBounds&quot;:{&quot;left&quot;:0,&quot;top&quot;:0,&quot;width&quot;:800,&quot;height&quot;:600,&quot;bottom&quot;:600,&quot;right&quot;:800,&quot;x&quot;:0,&quot;y&quot;:0},&quot;boundingClientRect&quot;:{&quot;left&quot;:90,&quot;top&quot;:195,&quot;width&quot;:310,&quot;height&quot;:23,&quot;bottom&quot;:218,&quot;right&quot;:400,&quot;x&quot;:90,&quot;y&quot;:195},&quot;intersectionRect&quot;:{&quot;left&quot;:90,&quot;top&quot;:195,&quot;width&quot;:310,&quot;height&quot;:23,&quot;bottom&quot;:218,&quot;right&quot;:400,&quot;x&quot;:90,&quot;y&quot;:195},&quot;intersectionRatio&quot;:1},&quot;domFingerprint&quot;:&quot;177897102&quot;,&quot;experimentToggles&quot;:{&quot;canary&quot;:false,&quot;expAdsenseA4A&quot;:false,&quot;a4aProfilingRate&quot;:false,&quot;ad-type-custom&quot;:true,&quot;amp-access-iframe&quot;:true,&quot;amp-apester-media&quot;:true,&quot;amp-ima-video&quot;:true,&quot;amp-playbuzz&quot;:true,&quot;chunked-amp&quot;:true,&quot;amp-auto-ads&quot;:true,&quot;amp-auto-ads-adsense-holdout&quot;:false,&quot;version-locking&quot;:true,&quot;as-use-attr-for-format&quot;:false,&quot;a4aFastFetchDoubleclickLaunched&quot;:false,&quot;a4aFastFetchAdSenseLaunched&quot;:false,&quot;pump-early-frame&quot;:true,&quot;3p-use-ampcontext&quot;:true,&quot;amp-live-list-sorting&quot;:true,&quot;amp-sidebar toolbar&quot;:true,&quot;svg-in-mustache&quot;:false,&quot;disable-faster-amp-list&quot;:true,&quot;amp-consent&quot;:true,&quot;amp-img-native-srcset&quot;:true,&quot;amp-story-v1&quot;:true,&quot;expAdsenseUnconditionedCanonical&quot;:false,&quot;expAdsenseCanonical&quot;:false,&quot;font-display-swap&quot;:true,&quot;amp-date-picker&quot;:true,&quot;url-replacement-v2&quot;:true,&quot;inline-styles&quot;:true},&quot;sentinel&quot;:&quot;0-2445152319751132601&quot;},&quot;type&quot;:&quot;facebook&quot;}}" width="310" height="23" scrolling="no" data-amp-3p-sentinel="0-2445152319751132601" class="i-amphtml-fill-content" style="border: none;"></iframe></amp-facebook-like></span></div><div class="tc"><h2 class="ma2">SẢN PHẨM MỚI NHẤT</h2><div class="ph2 pb3 flex flex-wrap nt4"><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-gac-dung-moi-dau-oliu" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-dung-moi-dau-oliu" title="Dầu Gấc Thiên Nhiên Loại 100ml Dẫn Xuất Dầu Oliu"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-100ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=wQ%2F6AqpmM%2Bmcqsui9ekC%2FLyn0X3%2FB4ebRsJ6gjZyjbhWJACx5Rj%2FVUc0TNNkhiw7pYLbJ9219KYpGCyMaPtZWVP2wQRm%2FGvQ%2BtQATrju5eScLaz7aEnmjFnyPpeYSRkvKUD7lOLsHdMBgjSiDSEJh255SWvxgZh7OkB39WIfx59F7oIlksIkj2htEj21HVxQHFsPIsuBcXnHiorxo5oZFwiYoz6D0EVqCrLUs4mOn2%2FjQKPYV6B44D4grNPVr3zOb6F3rv%2BEivDDerTE52nWfqZUipXrE5acDjIppy4tdA%2BGqQeDNgLQeOHQyX30%2FKTKIazwGEw8gB%2BoQJo%2F66%2B63w%3D%3D" alt="Dầu Gấc Thiên Nhiên Loại 100ml Dẫn Xuất Dầu Oliu" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Dầu Gấc Thiên Nhiên Loại 100ml Dẫn Xuất Dầu Oliu" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-100ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=wQ%2F6AqpmM%2Bmcqsui9ekC%2FLyn0X3%2FB4ebRsJ6gjZyjbhWJACx5Rj%2FVUc0TNNkhiw7pYLbJ9219KYpGCyMaPtZWVP2wQRm%2FGvQ%2BtQATrju5eScLaz7aEnmjFnyPpeYSRkvKUD7lOLsHdMBgjSiDSEJh255SWvxgZh7OkB39WIfx59F7oIlksIkj2htEj21HVxQHFsPIsuBcXnHiorxo5oZFwiYoz6D0EVqCrLUs4mOn2%2FjQKPYV6B44D4grNPVr3zOb6F3rv%2BEivDDerTE52nWfqZUipXrE5acDjIppy4tdA%2BGqQeDNgLQeOHQyX30%2FKTKIazwGEw8gB%2BoQJo%2F66%2B63w%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Gấc Thiên Nhiên Loại 100ml Dẫn Xuất Dầu Oliu</div><div class="mt1 f6">40,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-gac-dung-moi-dau-oliu" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-dung-moi-dau-oliu" title="Dầu Gấc Thiên Nhiên Loại 100ml Dẫn Xuất Dầu Oliu">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-gac-1-lit" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-1-lit" title="Dầu Gấc Thiên Nhiên Loại 1 lít"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-1lit.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=OS5gkWlpcUg40roKDyJd%2F3EgLY7WHBnJXLpj2i%2BrM%2FWBxgYIbD1%2FWFmYHfP8NMm2sAYDuDpdRQIAEJq1dyNIGq5yBac5lrTqYQv3G7WZ8X0ortt3cbILGGzMkJvTJ%2FkFb6OxUlSA909EdqM%2Bvef1V4ne7vnuc2%2FtC1iEmugQsNwbr5NTLg0VCZQ8KUZq89QJPc5xvqsehq924Ji2uY8ggwOpOWheLULCGZI%2F60nuzvvTIXuPRikATcFwNwoD9sIHFD%2BXdI6nVjx00fwGsNcuhNp8F8pxZsMeTiSuVkitRA3qszFsb6QYJfyt%2FaKPyNT6oMCaoyTW%2BEXCiDc475dx6g%3D%3D" alt="Dầu Gấc Thiên Nhiên Loại 1 lít" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Dầu Gấc Thiên Nhiên Loại 1 lít" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-1lit.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=OS5gkWlpcUg40roKDyJd%2F3EgLY7WHBnJXLpj2i%2BrM%2FWBxgYIbD1%2FWFmYHfP8NMm2sAYDuDpdRQIAEJq1dyNIGq5yBac5lrTqYQv3G7WZ8X0ortt3cbILGGzMkJvTJ%2FkFb6OxUlSA909EdqM%2Bvef1V4ne7vnuc2%2FtC1iEmugQsNwbr5NTLg0VCZQ8KUZq89QJPc5xvqsehq924Ji2uY8ggwOpOWheLULCGZI%2F60nuzvvTIXuPRikATcFwNwoD9sIHFD%2BXdI6nVjx00fwGsNcuhNp8F8pxZsMeTiSuVkitRA3qszFsb6QYJfyt%2FaKPyNT6oMCaoyTW%2BEXCiDc475dx6g%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Gấc Thiên Nhiên Loại 1 lít</div><div class="mt1 f6">324,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-gac-1-lit" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-1-lit" title="Dầu Gấc Thiên Nhiên Loại 1 lít">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-dua-20-ml" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-20-ml" title="Dầu Dừa Thiên Nhiên Loại 20ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-lam-dep-20ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=rKzR%2FFxd2NGkQVDEo6A%2BCy6mORsTXTCjiXvmOmwEwJ51XJElQRYFiyHgGxBEp6GDXYMSBg%2BgyZpshw%2B%2BGg3ZalNL1ayAAsrRe43V1ThKrvtcHP4mdt27415H0bQHVVF8qPySVMl1q5EtBJKsbYecpDdhPb8aR4y0y1aTACkpdbM8nC8wjHzThB95wIfXoRCEu%2FQCLrPVYUa2fA5XYF7Zw8muhO%2B98H7mb6YYH9r%2FE9QDja855fEETUVY%2BFxOVJsqf3iJoChZ1TqmzU%2F9O8xep35Vtqf6WPRotRbd96k8Uk96qMH9swHFut4hGVIDXpmtarQNYFETbO6QdFTWmsyBig%3D%3D" alt="Dầu Dừa Thiên Nhiên Loại 20ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Dầu Dừa Thiên Nhiên Loại 20ml" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-lam-dep-20ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=rKzR%2FFxd2NGkQVDEo6A%2BCy6mORsTXTCjiXvmOmwEwJ51XJElQRYFiyHgGxBEp6GDXYMSBg%2BgyZpshw%2B%2BGg3ZalNL1ayAAsrRe43V1ThKrvtcHP4mdt27415H0bQHVVF8qPySVMl1q5EtBJKsbYecpDdhPb8aR4y0y1aTACkpdbM8nC8wjHzThB95wIfXoRCEu%2FQCLrPVYUa2fA5XYF7Zw8muhO%2B98H7mb6YYH9r%2FE9QDja855fEETUVY%2BFxOVJsqf3iJoChZ1TqmzU%2F9O8xep35Vtqf6WPRotRbd96k8Uk96qMH9swHFut4hGVIDXpmtarQNYFETbO6QdFTWmsyBig%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Dừa Thiên Nhiên Loại 20ml</div><div class="mt1 f6">11,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-dua-20-ml" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-20-ml" title="Dầu Dừa Thiên Nhiên Loại 20ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-dua-loai-thuc-pham" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-loai-thuc-pham" title="Dầu Dừa Thiên Nhiên Loại 500ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-danh-cho-nau-an-500ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=sRDd8Nns7pzfmyufu5aS79F9hHqRaCsC15oZd7yGxBiWMwc66ech%2BYkAP83Vrohjex0ptSBrpijzPq2cU3dQBHBpOVCcx1xGPaP3tvAIxDBpdUxC5WCGrmKQ7u9HNJnaYSsRjXhv7Aoitw3z5PJpX%2Fl9HGgCV8UHhTJ%2BZfeviB4e3cySq3oF4VuFYyPwDICpJEDkT57QVbQEsyxQjttRNHauobY9CgSe7K0eTn4W2cUpTGeF6%2Beo7%2FMiuSdJy9AP6rCrUtd3LGQGQFE88fKgIXYC18my5WZ5LKBlru2A4kRUiuW8%2Bwc%2B2Tnpnr9H%2BBrmR3ncqFMgTBIEvGwJwYZ17w%3D%3D" alt="Dầu Dừa Thiên Nhiên Loại 500ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Dầu Dừa Thiên Nhiên Loại 500ml" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-danh-cho-nau-an-500ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=sRDd8Nns7pzfmyufu5aS79F9hHqRaCsC15oZd7yGxBiWMwc66ech%2BYkAP83Vrohjex0ptSBrpijzPq2cU3dQBHBpOVCcx1xGPaP3tvAIxDBpdUxC5WCGrmKQ7u9HNJnaYSsRjXhv7Aoitw3z5PJpX%2Fl9HGgCV8UHhTJ%2BZfeviB4e3cySq3oF4VuFYyPwDICpJEDkT57QVbQEsyxQjttRNHauobY9CgSe7K0eTn4W2cUpTGeF6%2Beo7%2FMiuSdJy9AP6rCrUtd3LGQGQFE88fKgIXYC18my5WZ5LKBlru2A4kRUiuW8%2Bwc%2B2Tnpnr9H%2BBrmR3ncqFMgTBIEvGwJwYZ17w%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Dừa Thiên Nhiên Loại 500ml</div><div class="mt1 f6">175,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-dua-loai-thuc-pham" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-loai-thuc-pham" title="Dầu Dừa Thiên Nhiên Loại 500ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/mau-dua-dang-bop" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mau-dua-dang-bop" title="Nước Màu Dừa Nguyên Chất Loại 100ml dạng bóp"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmau-dua%2Fproduct%2Fnuocmau100munhon.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=E%2B6taZBrISL1jKp83ZGr9tulZ1%2FCKXQ9jDUwle2K2z0dCRifFE3tpPH2wU%2F%2FvIweRGXUvRaDFVVfemLAMK4f7zrjRbbj1%2BIXeg82eztKsWo5l0%2BsMfOKoZldAQhnb0AgRIqS3l%2BARX%2FhRo2zMXmLzve12CSogwFvH7dHolYQC9QXxpGMpvh%2BXsL0u94WQMReCa2nVikGYHoJpht6pf%2BJvi9PXRlsJ7Hj%2B1pXUzt0NMUNpy%2Btu6l%2BU47gYcl0dyhmXl7krw2A1g1%2FeRJItZNKYPfzxJKJYmU669uD%2FvDk5VwbUvASCioY5vOfl8I1RW7lGmZuTij%2ByCT8P%2FHCRdFo8w%3D%3D" alt="Nước Màu Dừa Nguyên Chất Loại 100ml dạng bóp" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Nước Màu Dừa Nguyên Chất Loại 100ml dạng bóp" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmau-dua%2Fproduct%2Fnuocmau100munhon.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=E%2B6taZBrISL1jKp83ZGr9tulZ1%2FCKXQ9jDUwle2K2z0dCRifFE3tpPH2wU%2F%2FvIweRGXUvRaDFVVfemLAMK4f7zrjRbbj1%2BIXeg82eztKsWo5l0%2BsMfOKoZldAQhnb0AgRIqS3l%2BARX%2FhRo2zMXmLzve12CSogwFvH7dHolYQC9QXxpGMpvh%2BXsL0u94WQMReCa2nVikGYHoJpht6pf%2BJvi9PXRlsJ7Hj%2B1pXUzt0NMUNpy%2Btu6l%2BU47gYcl0dyhmXl7krw2A1g1%2FeRJItZNKYPfzxJKJYmU669uD%2FvDk5VwbUvASCioY5vOfl8I1RW7lGmZuTij%2ByCT8P%2FHCRdFo8w%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Nước Màu Dừa Nguyên Chất Loại 100ml dạng bóp</div><div class="mt1 f6">23,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/mau-dua-dang-bop" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mau-dua-dang-bop" title="Nước Màu Dừa Nguyên Chất Loại 100ml dạng bóp">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/mut-dua-la-dua" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-la-dua" title="Mứt Dừa lá dứa Bến Tre"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Fproduct%2Fmut-dua-la-dua-200-g_2.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=lRa6RbRXrgvmdtmrDMzjigCRxh8WGyu3szoZrbXnUE%2FUohjoJWeYsDFfZadIHG%2FFHDC8DqaTF3mGpqooAsG47atjgUeoiO31eRHAn%2Fe9l8UODoJxu76W%2ByBKW2kABMpscxbqCN6DhQu%2BF4wNKtbHqyvZ3PthokxBFl9vaVKblD9xBAVgDixL0anLa%2F9xyj8FRq8SFBJhNicZenhodO6hPFnstz2OilaYQtoKnaiRHvBewG7RvZWUl4CuZhH6l3MbaBPJJXjDaQqDbr8LCPVIGB0jjRyzB666HW%2FqaQMk8pDKhvtnfhcpAnF6nBn%2Bu50fgwgY%2BwG%2BEpnPUakDFhOZfw%3D%3D" alt="Mứt Dừa lá dứa Bến Tre" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Mứt Dừa lá dứa Bến Tre" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Fproduct%2Fmut-dua-la-dua-200-g_2.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=lRa6RbRXrgvmdtmrDMzjigCRxh8WGyu3szoZrbXnUE%2FUohjoJWeYsDFfZadIHG%2FFHDC8DqaTF3mGpqooAsG47atjgUeoiO31eRHAn%2Fe9l8UODoJxu76W%2ByBKW2kABMpscxbqCN6DhQu%2BF4wNKtbHqyvZ3PthokxBFl9vaVKblD9xBAVgDixL0anLa%2F9xyj8FRq8SFBJhNicZenhodO6hPFnstz2OilaYQtoKnaiRHvBewG7RvZWUl4CuZhH6l3MbaBPJJXjDaQqDbr8LCPVIGB0jjRyzB666HW%2FqaQMk8pDKhvtnfhcpAnF6nBn%2Bu50fgwgY%2BwG%2BEpnPUakDFhOZfw%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Mứt Dừa lá dứa Bến Tre</div><div class="mt1 f6">28,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/mut-dua-la-dua" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-la-dua" title="Mứt Dừa lá dứa Bến Tre">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/banh-trang-sua-hot-ga" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang-sua-hot-ga" title="Bánh Tráng Mỹ Lồng sữa hột gà 10 cái"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Fproduct%2Fbanhtrang256.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=W8B%2F62Q2pst9TyIl4zNIFi2RI%2FeYwb%2BATs%2F8i8ZRe3jB8pBLEIzaEbc34QluoZZC9AjC4Jki%2B%2FKSSZiOV5%2Bnk%2FwMCyfC8kla6SBzWwh%2FM8CdEF25G8YgWmq%2F6NejhUdUycgSE%2BopLVpXsyj%2BBcHQl7yFdVNT5qfy7FE%2F%2BxxA7cgkV1%2BtiNaDWJiPJd37%2FIBqc%2BUpGA4q1xko9jzLUB4OX4cGWUl8NgU5k77AhzLDYN0wGJhSTTqlmEuwrOaUwsECjkfD3lYYc6C7BCCUzp8I6C%2FPldruAytfQ0kejtzGBb%2BsMoKiQt0wtw98c0T2skZ8MxcekvSN8jYnewJhpleUaQ%3D%3D" alt="Bánh Tráng Mỹ Lồng sữa hột gà 10 cái" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Bánh Tráng Mỹ Lồng sữa hột gà 10 cái" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Fproduct%2Fbanhtrang256.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=W8B%2F62Q2pst9TyIl4zNIFi2RI%2FeYwb%2BATs%2F8i8ZRe3jB8pBLEIzaEbc34QluoZZC9AjC4Jki%2B%2FKSSZiOV5%2Bnk%2FwMCyfC8kla6SBzWwh%2FM8CdEF25G8YgWmq%2F6NejhUdUycgSE%2BopLVpXsyj%2BBcHQl7yFdVNT5qfy7FE%2F%2BxxA7cgkV1%2BtiNaDWJiPJd37%2FIBqc%2BUpGA4q1xko9jzLUB4OX4cGWUl8NgU5k77AhzLDYN0wGJhSTTqlmEuwrOaUwsECjkfD3lYYc6C7BCCUzp8I6C%2FPldruAytfQ0kejtzGBb%2BsMoKiQt0wtw98c0T2skZ8MxcekvSN8jYnewJhpleUaQ%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Bánh Tráng Mỹ Lồng sữa hột gà 10 cái</div><div class="mt1 f6">56,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/banh-trang-sua-hot-ga" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang-sua-hot-ga" title="Bánh Tráng Mỹ Lồng sữa hột gà 10 cái">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/mut-dua-sua-la-dua" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-sua-la-dua" title="Mứt Dừa sữa lá dứa Bến Tre"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Fproduct%2Fmut200.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=sTUyPoMy1ov0WgA08eNJykC2fo5TdkLjfp56lg6fNqQEkiholpDLIGpcL8ENd56c00FH4xUtdIhqP9eBC2bMtK3FruytiErw81WUuwou9G%2B2b8dG1AFM9rwqnMJLXgmxMlV07RC3kVuHtFl2N%2BJi%2BY2sDEzK3NEKYWREMgqCDvHYSif6AX8RSC3WO7OTVZdC8GhLc4Vn2%2F2HVVGBKFBxId7QaL%2FEGPNQwH25a7ipTQ4yuE%2Fs2MfCDZo84zcFAwx%2FMsRtgotrTBHoxtc97JQQ70f6Z1F9NeVMBWWTVuYm34eA%2BrQWVhKRRqX7MwR9N9gvBy0BistZlhghRtx%2FWz4hZA%3D%3D" alt="Mứt Dừa sữa lá dứa Bến Tre" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined i-amphtml-layout" style="width: 250px; height: 250px;"><img decoding="async" alt="Mứt Dừa sữa lá dứa Bến Tre" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Fproduct%2Fmut200.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=sTUyPoMy1ov0WgA08eNJykC2fo5TdkLjfp56lg6fNqQEkiholpDLIGpcL8ENd56c00FH4xUtdIhqP9eBC2bMtK3FruytiErw81WUuwou9G%2B2b8dG1AFM9rwqnMJLXgmxMlV07RC3kVuHtFl2N%2BJi%2BY2sDEzK3NEKYWREMgqCDvHYSif6AX8RSC3WO7OTVZdC8GhLc4Vn2%2F2HVVGBKFBxId7QaL%2FEGPNQwH25a7ipTQ4yuE%2Fs2MfCDZo84zcFAwx%2FMsRtgotrTBHoxtc97JQQ70f6Z1F9NeVMBWWTVuYm34eA%2BrQWVhKRRqX7MwR9N9gvBy0BistZlhghRtx%2FWz4hZA%3D%3D" class="i-amphtml-fill-content i-amphtml-replaced-content"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Mứt Dừa sữa lá dứa Bến Tre</div><div class="mt1 f6">28,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/mut-dua-sua-la-dua" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-sua-la-dua" title="Mứt Dừa sữa lá dứa Bến Tre">Xem chi tiết</a></div></div></div></div></div><div class="tc mt5"><h2 class="ma2">BÀI VIẾT MỚI NHẤT</h2><div class="ph5-l"><amp-carousel class="carousel2 i-amphtml-element i-amphtml-layout-responsive i-amphtml-layout-size-defined i-amphtml-carousel-has-controls i-amphtml-slidescroll" layout="responsive" height="9" width="16" type="slides" autoplay="" delay="5000" loop=""><i-amphtml-sizer style="display: block; padding-top: 56.25%;"></i-amphtml-sizer><div class="i-amphtml-slides-container" aria-live="polite"><div class="i-amphtml-carousel-start-marker"></div><div class="i-amphtml-carousel-end-marker"></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/nuong-banh-trang-my-long-banh-phong-son-doc" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/nuong-banh-trang-my-long-banh-phong-son-doc" title="Nướng bánh tráng Mỹ Lồng, bánh phồng Sơn Đốc"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fbanh-vua-trang-nuong.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=W0V8ydygW5l9eMqZ%2FkLXoGD3yHuhSvs%2BzLKzmMBF4tzANFy42y4PNIO8HJV1mCtgt1BHXOg533vfb%2FCxPUQkZwjy5vQGJTZAXxXE4496dz9BrmgxM4N9foljiGu96vVMTuzP1BkyK2L%2F8ZNhRRZjOXYkedSRPhXq2C9bZ8ONnlpN%2F9nwILSKMxqIRb8u3oWFyUnfgwPmyTk8oHTLpQiPUn3nWCgTu7i3NZKEzOxLPKPsmTKsZ%2B5WYoJsVAi6Ga5eAvpiFcF5LUSkyjy0JVUXTF5FOyr83G5iqeqpmZApHhBlhRMNdA0cY%2Fhhm7ZAG8S39g7NGKxZ4%2FmX%2F%2BpAYuOa7Q%3D%3D" layout="fill" alt="Nướng bánh tráng Mỹ Lồng, bánh phồng Sơn Đốc" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Ngoại ngồi nướng bánh cho con cháu xem, dạy cháu cách nướng, hình ảnh gắn liền ký ức tuổi thơ, bánh phồng nướng lửa, bánh tráng nướng than</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/banh-trang-my-long" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/banh-trang-my-long" title="Bánh tráng Mỹ Lồng"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fbanh-trang-my-long.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=i2sqh0kg7BabmPkEE7K%2FlOfrcQPuZKWNCN7CjGaopHbJK8a4oTabbOCwQPUNklAkeNQReVS%2F%2B763d3RturjRiEue1PM8DgIoB7ZFEaf6GG4p8BKXb6dTDigGN8Cj1KdYuMWR52Z7Ou2DHuc%2FTEQzijvWoJdWk3Dc64sZcrs3NyiW7KyAkRVJptljHiT2w61fmQDJ43rMspljjxq2zEUPqRQE%2FGNDIKVM6pVp0jP9c%2FDNYbETijGjZuoDHtf226j4WgpjmH67Fcdxv2smM%2FpzOJ60t%2Fb4GM11aqRvzQGa02wDSmSmhRScEFGsA3FXXfm%2BG7rv6qvzBARW6ahBl4pDiA%3D%3D" layout="fill" alt="Bánh tráng Mỹ Lồng" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Hành trình về thăm cơ sở làm bánh tráng của Chị Hai ở Mỹ Lồng, tìm hiểu quá trình làm bánh của người dân xứ Dừa, công việc bắt đầu từ 15h chiều</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/nuong-banh-trang-kieu-xua-o-xu-dua" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/nuong-banh-trang-kieu-xua-o-xu-dua" title="Nướng bánh tráng kiểu xưa ở Xứ Dừa"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fnuong-banh-kieu-xua.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=U4cwmDUZGw3PjH1UMwsvYHGOqn71HxSzCHGT8US5p03UDPBDBRah1yQiy3iA9RqMBGYOE44LMTqPomOB7182z23D2%2B7bIbzk9s39ITYZ6GW7qcBHguD7Mn4z5md6mYhCYTktbpgr84CJaDd3Q8eR4EDB7lECxL%2F0xJEU%2BqT%2FnBONVMOkTXmVTyBj6TPiqHsc2TQusXzquCNKQDUwuIjYQpj%2FTFSd2nF%2FgwxmHrglx5bVR072EqewFgmaaemKUJqxuxTvOJOcm9W1m1mPQZ6NumlWjGeBJNcLivIkRO5d2WDzvyK6jZ%2BPSc8SRVrk0R8N5r6ErEPsEqdYcihEYGXsCw%3D%3D" layout="fill" alt="Nướng bánh tráng kiểu xưa ở Xứ Dừa" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Thời xưa, miền quê khi nướng bánh tráng, sẽ đi chặt tàu dừa, chẻ ra làm gấp nướng bánh chứ không có những cái gấp sắt như bây giờ</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/tham-lang-nghe-banh-trang-my-long" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/tham-lang-nghe-banh-trang-my-long" title="Thăm làng nghề bánh tráng Mỹ Lồng"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fbanh-vua-trang.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=E0h7jTJPkBan2dqObNDUuJ7lPwt%2B0XoKp9QX%2FaDvEYcNrZ79%2Bw9r8XVNrusmYbtfYUnZQ3%2FggjBVnj7pSnQhbLhSGlGwSoTMvEkjlMEnZ%2FuZWU%2BRk%2FeKfG9%2BZylOx6T%2BYZbT0YLmoYIbj%2FtOH3c7DX%2FrXC5w8i7qdgkfU3hSZQ0%2BKD01UV%2BPgu6LUKpE0SNhbZpiHQcUu4Hd36TJLriVeS%2F2Y2itvQO7EFlobAcDEcg9AI8n%2FdCPcwuKVm5XrXRzOpD71bdd28tTiInMaKoNP7AkOSGHp8gwMxS%2FI%2B1TDVlWR8j%2FuJhuym3mZo1evgCktTy7mkxcCEDlVikIDDlZWg%3D%3D" layout="fill" alt="Thăm làng nghề bánh tráng Mỹ Lồng" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Hiện nay,ở xã Mỹ Thạnh có hơn 150 lò bánh tráng, các lò tập trung nhiều nhất ở ấp Nghĩa Huấn. Bà con cho rằng bánh ở Nghĩa Huấn ngon hơn nhiều nơi khác trong xã, vì dừa ớ đây có vị ngọt hơn</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/banh-trang-nuong-dac-san-ben-tre" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/banh-trang-nuong-dac-san-ben-tre" title="Bánh tráng nướng Đặc Sản Bến Tre"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fbanhtrang.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=MHH6z0xA7AkO%2F91KmHvjGeRo%2BBhFhlsJ5%2FftAq6Ylbnl0HS2bYiIxjGYbrV3iZmrDa38uKhgT2dA9N8w4QLJmxBUIyKZJ7Gw%2F0eAwLW3mM8NBy%2Ft9K7gJtmCxpEvHmjD7ggLaeWrrF7icZs8nkwAQ3ReM41fkpLE4uluxotmreAiB6SY%2BIxH8U6wh35aDb8GpUxTzjymYQYzRV4Or7rnGkAVaGLiVxVKVdso1fL%2B7keTCJQkeAE1n2zOq8nPIs3dJJ%2Fs%2F6UDgjj%2FiouulwwNAf5MOeXqQtz%2BYCqkZRRNJqGZY8p7kY7GCP96EW356dB8vHbkTCV1Mqyur7z2BM6pZw%3D%3D" layout="fill" alt="Bánh tráng nướng Đặc Sản Bến Tre" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Có ai đã nghe câu" ăn bánh tán, uống nước tà" tức là "ăn bánh tráng, uống nước trà" của người Miền Tây chưa? Bánh Tráng là món ăn quen thuộc của miền quê đến nỗi thành câu cửa miệng khi có khách đến: "Mời anh, mời chị vô nhà ăn bánh tráng, uống nước trà"</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/ve-tham-lang-nghe-banh-trang-my-long" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/ve-tham-lang-nghe-banh-trang-my-long" title="Về thăm làng nghề bánh tráng Mỹ Lồng"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fve-tham-lang-nghe-banh-trang-my.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=tCwgLF1vdPwVKpIjhmmuLDySBurMXF8mb06Xcf2wd7bVP80I1GJILDBT%2F0dPnBUf2PUvVfBkhQE95iKjh7OJ7LlzkirlZxL7v6hc6B24clGKQ795HJESs3A5kbJwzJPc24hRVJJEiSbvC3zGWDeRG%2FxvjbUTwhvkGrGXcmlXNoplbke9U10mMqMUBYRLZM1dJW%2FPK%2B8GlWq%2Bl2z7gXwLY%2F4QLpe7N%2BcRqHeZ4wkNcuABPTi4HeU2DRsvf9J0k3DhPuZeQ7WFSuvcrZbatZES6rLRzvvgPUfwITFm6JvqusJramb2u5Js%2FRYSNpvaqst1j%2FbEVEFKZox7s%2BqHtX2bAw%3D%3D" layout="fill" alt="Về thăm làng nghề bánh tráng Mỹ Lồng" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Làng nghề bánh tráng Mỹ Lồng có hơn trăm năm, nhiều nhà có đến 3 đời làm bánh, nước cốt dừa là phần quan trọng và không thể thiếu trong qui trình làm bánh tráng, dừa được trồng trên đất Mỹ Lồng cho nước ngọt, cơm dừa đặc và béo hơn dừa các vùng khác, chính vì lẽ có bánh tráng Mỹ Lồng mang hương vị rất riêng không nơi nào có được.</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cach-lam-mut-dua-sua-tuoi" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cach-lam-mut-dua-sua-tuoi" title="Cách làm mứt dừa sữa tươi"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Flarge%2Fmutduasuatuoi.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=rDywhX%2FHRjhdk97osEARAnGKTD9ACfm4pz89AUSD0wjxJ91lsKtYh%2FTUN28dmFSDIujb800W7kfEXlb%2BU99od0BeVvmB9318TBii52oZg3UCy%2BW67Yah1rjc3J2nBQl0st4XJUptdP6woSvH8lnZr25C6lnMbCgGwObTllS7gPavM%2B5ObCQoLpLpevnaX2EIKBFwQ731iC9wEQsktZGQSz5%2BPfnzTvdQItsnYsuGyl7Y0tjoTa63YlXKHtLf5Yk2500EP3dnb1SooIgv%2Buei%2FE2PnlUQ6HIYPBsCkA8sWEg2OnqKNZ4TXWUdA3g69%2BgAuGTK5ormMRyiWnQxfYczdg%3D%3D" layout="fill" alt="Cách làm mứt dừa sữa tươi" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Mứt dừa làm bằng sữa tươi sẽ có màu trắng đục khác với mứt dừa làm bằng đường cát trắng nhưng có thêm vị béo của sữa tươi rất tuyệt vời</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cach-lam-mut-dua-vien" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cach-lam-mut-dua-vien" title="Cách làm mứt dừa viên"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Flarge%2Fmutduavie.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=RteFS8kfFkpXcU%2B7L9H38HQ1aowvnLwAztPcMJCts7FPATWxsUx52HQIi3%2Fk2FzS1Wiolde6UaUwlNLIQ%2BqGI5f0A004%2F%2BB%2B%2BAavCQ0pFMtE26wkC7WrROJkyClaOljFV%2BqdMGTkRU%2BuxGOdxq86MnxhmIHwzn99QqYk1IRq9GpAUPQRzeYNDCsZSv%2FEufBkWb5dkvPhEPnX5E53pHJDtrgfVbuLPdYUHwDg9Rzmtbie0EMjdl9KniqT0xQL3y%2Bt7P4iGXhOs9%2BKE83Hvwv%2BSLamJYNs8oq9h%2B4PD5so8m2jY1watd%2FKS1Ic4snUDEj0IrMSAtwv%2B2AIkV%2FLzUzbyA%3D%3D" layout="fill" alt="Cách làm mứt dừa viên" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Mứt dừa viên do cô giáo trẻ dạy tiếng anh sáng tạo và đưa lên mạng xã hội tết 2017 đã gây xôn xao cộng đồng mạng, nhất là các bà nội trợ, mẹ bỉm sữa nhờ hình dáng hạt lựu với nhiều màu sắc lạ mắt, hấp dẫn </div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cach-lam-mut-dua-bong" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cach-lam-mut-dua-bong" title="Cách làm mứt dừa non, mứt dừa bông"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Flarge%2Fmutduanon.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=4sssIXOLWnlDeas22i3N1CCJeUsS6CnF0P7eDnAHhztbvuPqTO5W3je8Bfl%2Fe04gAzqvOSZM9WSy1POYMKRhqMcc9BryIGujAWwsErJK%2FtbPm2nFD8SOLMMFWTS7W4GlfvXBk%2BFFANIFUQmOR8gz5NoZLRAi2dj7eBXyksw%2F%2FTh%2F8suO7mL80MZwF%2BO9vK4DxQAYusdEmj9mYoRmXe8joIydxqnDj9Q7gNQhwQgi7sgQMVaaOykAydZRI314QAFIVs9oQMTOKGqbKXC0yvtZLFIeMMfzTfK%2F2xVPUrJhXHqMhm6mNNnpF4qXkNt%2F9gBRNC8MsRsWc%2Fc%2BV19MH%2F%2B%2FzA%3D%3D" layout="fill" alt="Cách làm mứt dừa non, mứt dừa bông" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Mứt dừa bông, mứt dừa viên, khâu lựa dừa rất quan trọng, cái dừa phải còn mềm thì mứt mới có độ mềm dẻo, gáo dừa còn màu trắng, khi gáo ngả sang màu đen thì món mứt làm ra sẽ không được dẻo ngon( đây là mứt dừa truyển thống)</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cach-lam-mut-dua-la-dua" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cach-lam-mut-dua-la-dua" title="Cách làm mứt dừa lá dứa"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Flarge%2Fmutdualadua.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=h8MeDFYvmxn%2FAIz5mDlqf5HZM5%2BY8C375zPfP6EVLHB0rD9gcp72ctNU57tiIfyLSazHJ0W1JqEc57XzFwvYyW2q9KnGPZBqU0zitHiQSK4wTJAGje9OxL4OzyMb670T%2FJzTH%2BGmWy5uBURZSb2Een%2FRCCYDz%2FtVgnZMzMvQCBdva5tDUWCfCTU%2BCriVUWDc0DdVYUWwBGPpS2%2FVRKNJp4%2FwNR0pTYx806HvhiVE5Sv1N65RF8IUbFB%2FyC%2BXh5qizJOHVxPWATGWTq%2F10KF9eWjIaGFkGFQp3%2BI34fayN%2F8yNLqAg5BCfjbbLz6%2FTPGNeaRTZG6VONXFEshgs8K0WQ%3D%3D" layout="fill" alt="Cách làm mứt dừa lá dứa" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Cách làm mứt dừa lá dứa với màu xanh nhẹ nhàng cùng với mùi thơm lá dứa làm cho món mứt dừa của bạn hấp dẫn hơn, đặc biệt không dùng phẩm màu, an toàn cho thực khách</div></a></div></div><div tabindex="0" class="amp-carousel-button amp-carousel-button-prev" role="button" aria-disabled="false"></div><div tabindex="0" class="amp-carousel-button amp-carousel-button-next" role="button" aria-disabled="false"></div></amp-carousel></div></div><div class="tc mt5"><h2 class="ma2">SẢN PHẨM NỔI BẬC</h2><div class="ph2 pb3 flex flex-wrap nt4"><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/banh-trang" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang" title="Bánh Tráng Mỹ Lồng 10 cái"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Fproduct%2Fbanhtrang256.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=W8B%2F62Q2pst9TyIl4zNIFi2RI%2FeYwb%2BATs%2F8i8ZRe3jB8pBLEIzaEbc34QluoZZC9AjC4Jki%2B%2FKSSZiOV5%2Bnk%2FwMCyfC8kla6SBzWwh%2FM8CdEF25G8YgWmq%2F6NejhUdUycgSE%2BopLVpXsyj%2BBcHQl7yFdVNT5qfy7FE%2F%2BxxA7cgkV1%2BtiNaDWJiPJd37%2FIBqc%2BUpGA4q1xko9jzLUB4OX4cGWUl8NgU5k77AhzLDYN0wGJhSTTqlmEuwrOaUwsECjkfD3lYYc6C7BCCUzp8I6C%2FPldruAytfQ0kejtzGBb%2BsMoKiQt0wtw98c0T2skZ8MxcekvSN8jYnewJhpleUaQ%3D%3D" alt="Bánh Tráng Mỹ Lồng 10 cái" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Bánh Tráng Mỹ Lồng 10 cái</div><div class="mt1 f6">41,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/banh-trang" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang" title="Bánh Tráng Mỹ Lồng 10 cái">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/mut-dua-sua" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-sua" title="Mứt Dừa sữa Bến Tre"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Fproduct%2Fmut-dua-sua-200-g.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=QRftUI2bF7mNhalpnJSCTb%2BYxSuTu23mnMH%2Baefqr3H6bMeKDekNDlxx1qIrwwTzyABLeoRUIvMIiH%2F6R7CyRGJUah75btRFItdJSurxXlMO5jSV9jBleOerHd%2FuFoZ9KDveZZwcRZB06x%2BlwF2twbCFBAZyVFBnBBiKXLONV4lpBMA5ZxZtsAlM%2FvPqueGTp74ufzAUJJt%2BeY0KiJMUWhjVm5T1%2BTMp4xZ57mlvhUjPd9Vk3ugIhhjK6OIFYpkBUdQD%2FS1v83MCkry5%2FMeRcRcEhdsx2kz96BLI214bwsu0YAGvEJ6bzw5LyrkMDVweWx9FcTquIv%2FlvqrC8DVvNg%3D%3D" alt="Mứt Dừa sữa Bến Tre" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Mứt Dừa sữa Bến Tre</div><div class="mt1 f6">25,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/mut-dua-sua" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mut-dua-sua" title="Mứt Dừa sữa Bến Tre">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/mau-dua" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mau-dua" title="Nước Màu Dừa Nguyên Chất Loại 100ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmau-dua%2Fproduct%2Fnuocmau100nhan.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=LTzjn%2FChUMYMgZjJoiugA%2B%2BvUeNQEKv3n%2BUvwo3tAiWatHlukKTj%2FM%2FWq4AoPL2KtRgZVcPgDyhiTwx%2BPu1%2FlA%2BPAmavkVkNYkUzfkWuOJ58ugWOM2UXEtyWHoOjUAgidBp%2B%2B5eKdnSCucebmB1M2zk14WXlJCGbeOU3pcsoJmxnf3%2Fjt6LIJxeVIQXAva3W9jZRdiinW5tSsge%2BQzmNoHO141QPWClBxQy4QL66K%2F8y41QWZ6bx3ykRvzjqxCzSrnVGHTMTXA19AbRpUy%2FXPoifFRfkzHMljGBpxMjeE9sFHN4Sqy2mlB557gr48LJ9nJntu%2FY9C1IYULknbBuMWQ%3D%3D" alt="Nước Màu Dừa Nguyên Chất Loại 100ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Nước Màu Dừa Nguyên Chất Loại 100ml</div><div class="mt1 f6">24,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/mau-dua" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/mau-dua" title="Nước Màu Dừa Nguyên Chất Loại 100ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-dua-200-ml" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-200-ml" title="Dầu Dừa Thiên Nhiên Loại 200ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-lam-dep-200ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=I7X%2F6CgHDSTTwwBS8wLz2yhYHnhQYqm3V4HWij68R7cWsFA3MmWzAWMpqbv4AmVugfQ9WU%2FqtRw6QGRwBycyT4a1aRXwt35yAQfvFDP0MfkyOavdq%2ByrT6JzRZR4cKiqAhX0rU9%2B4FCk%2FiXlzva0Bl4ZD5xzpI4RmFb3bM01qdE45wr%2Bl6UD%2BmEi3YR8pspD1DnwuGVdLGGWoBhaF6q94dXup7GmiSBYl3LD%2BlgVN9rJ5CZmhidRTk%2BFvI8GKVDO6u829iDT0x32K5IfGU%2FhUOcYQQZCjlDGIITv7fXHrO6SB6B1FuASVgQduJNnQ0qcAerhStzPTWMG3Db970W6ug%3D%3D" alt="Dầu Dừa Thiên Nhiên Loại 200ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Dừa Thiên Nhiên Loại 200ml</div><div class="mt1 f6">75,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-dua-200-ml" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua-200-ml" title="Dầu Dừa Thiên Nhiên Loại 200ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-dua" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua" title="Dầu Dừa Thiên Nhiên Loại 100ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Fproduct%2Fdau-dua-thien-nhien-lam-dep-100ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=HI8jsBKjEUnsRq%2FGiJ5dtc85zfJ9F%2Fu9j66SIIWyClpQhbHpcPAGDeS5pmTewVp0LFx1KKRPlr9uz9K40mp%2B00CuwRRpMmREHExDuViDrAC6Wkl6nKhAiRDHH5yCEm9znbKka3G1lFfO0xhNZQfAjE31d9ZmB5gDv0pr9YCIymTzbFIvH%2FaLIEAOSmsB03TsRomiuWuMmPppdnOGaQ2qmiMxiaH5jo7AgXWILokgYk8T%2FXxTTACNFHSgfBsa2e6%2BUvC%2FV4eW1V3bPrqhOIvQRT6PwI5CXC3W20qb%2Bm40pwx%2B0dco7Ct34oGh%2BLX8Y3U1stmGAPrhchoHfx04h6b%2BWQ%3D%3D" alt="Dầu Dừa Thiên Nhiên Loại 100ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Dừa Thiên Nhiên Loại 100ml</div><div class="mt1 f6">39,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-dua" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-dua" title="Dầu Dừa Thiên Nhiên Loại 100ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-gac-200-ml" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-200-ml" title="Dầu Gấc Thiên Nhiên Loại 200ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-200ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=2%2FMe6gQV1B2EOyan3RkIAaqZwjN8lMrDqNLMuNsi1bPx%2FEY4l6aTHK0xeaMv2nF68riPxpvndH6vAtbaLOWx%2FxsPqvd3Q1cN5lnw69o%2B8yUNhCA6Z7McOk6Ca9ZUpfiKRgF6OPke2U6T%2FgVo96bgqhxjP02d76dxXA6tKfiwTwAX6L6Z5JqYI1DLUeUTUcTPUCyZ98e53NZB7d95U%2BHAFnS%2B3bmaVhQj%2FFe51vGzo4xCf%2BUsxKZQthnKQfYDSXA9VJP968T%2Fw7PeLs9W62qGHz7WnbyADzBkjQ3%2FJfO0XpJy2%2FaL21D3u5oVr30wotMNPfCDbi%2FbUXv0rSql0k5nsA%3D%3D" alt="Dầu Gấc Thiên Nhiên Loại 200ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Gấc Thiên Nhiên Loại 200ml</div><div class="mt1 f6">72,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-gac-200-ml" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac-200-ml" title="Dầu Gấc Thiên Nhiên Loại 200ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/dau-gac" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac" title="Dầu Gấc Thiên Nhiên Loại 100ml"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Fproduct%2Fdau-gac-thien-nhien-100ml.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=wQ%2F6AqpmM%2Bmcqsui9ekC%2FLyn0X3%2FB4ebRsJ6gjZyjbhWJACx5Rj%2FVUc0TNNkhiw7pYLbJ9219KYpGCyMaPtZWVP2wQRm%2FGvQ%2BtQATrju5eScLaz7aEnmjFnyPpeYSRkvKUD7lOLsHdMBgjSiDSEJh255SWvxgZh7OkB39WIfx59F7oIlksIkj2htEj21HVxQHFsPIsuBcXnHiorxo5oZFwiYoz6D0EVqCrLUs4mOn2%2FjQKPYV6B44D4grNPVr3zOb6F3rv%2BEivDDerTE52nWfqZUipXrE5acDjIppy4tdA%2BGqQeDNgLQeOHQyX30%2FKTKIazwGEw8gB%2BoQJo%2F66%2B63w%3D%3D" alt="Dầu Gấc Thiên Nhiên Loại 100ml" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Dầu Gấc Thiên Nhiên Loại 100ml</div><div class="mt1 f6">38,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/dau-gac" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/dau-gac" title="Dầu Gấc Thiên Nhiên Loại 100ml">Xem chi tiết</a></div></div></div><div class="w-100 w-50-m w-25-l flex flex-wrap mt4 ml-auto mr-auto"><div class="mr-auto ml-auto ba b--gray-light shadow-6 br3"><a href="/san-pham/banh-trang-sua-hot-ga-5-chuc" class="link" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang-sua-hot-ga-5-chuc" title="Bánh Tráng Mỹ Lồng sữa hột gà 50 cái"><amp-img width="250" height="250" src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Fproduct%2Fbanhtrang256.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=W8B%2F62Q2pst9TyIl4zNIFi2RI%2FeYwb%2BATs%2F8i8ZRe3jB8pBLEIzaEbc34QluoZZC9AjC4Jki%2B%2FKSSZiOV5%2Bnk%2FwMCyfC8kla6SBzWwh%2FM8CdEF25G8YgWmq%2F6NejhUdUycgSE%2BopLVpXsyj%2BBcHQl7yFdVNT5qfy7FE%2F%2BxxA7cgkV1%2BtiNaDWJiPJd37%2FIBqc%2BUpGA4q1xko9jzLUB4OX4cGWUl8NgU5k77AhzLDYN0wGJhSTTqlmEuwrOaUwsECjkfD3lYYc6C7BCCUzp8I6C%2FPldruAytfQ0kejtzGBb%2BsMoKiQt0wtw98c0T2skZ8MxcekvSN8jYnewJhpleUaQ%3D%3D" alt="Bánh Tráng Mỹ Lồng sữa hột gà 50 cái" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 250px; height: 250px;"></amp-img></a><div class="pa3"><div class="dark-gray mt2 f5 b mw-13">Bánh Tráng Mỹ Lồng sữa hột gà 50 cái</div><div class="mt1 f6">276,000</div><div class="pv2 tc bg-green white br2 mt3"><a href="/in-develop" rel="nofollow" class="white link">Thêm vào giỏ</a></div><a class="pv2 tc bg-green white br2 mt3 db link" href="/san-pham/banh-trang-sua-hot-ga-5-chuc" data-vars-click-ga-trigger="click_home_product_item" data-vars-label="name:/san-pham/banh-trang-sua-hot-ga-5-chuc" title="Bánh Tráng Mỹ Lồng sữa hột gà 50 cái">Xem chi tiết</a></div></div></div></div></div><div class="tc mt5"><h2 class="ma2">BÀI VIẾT HAY NHẤT</h2><div class="ph5-l"><amp-carousel class="carousel2 i-amphtml-element i-amphtml-layout-responsive i-amphtml-layout-size-defined i-amphtml-carousel-has-controls i-amphtml-slidescroll" layout="responsive" height="9" width="16" type="slides" autoplay="" delay="5000" loop=""><i-amphtml-sizer style="display: block; padding-top: 56.25%;"></i-amphtml-sizer><div class="i-amphtml-slides-container" aria-live="polite"><div class="i-amphtml-carousel-start-marker"></div><div class="i-amphtml-carousel-end-marker"></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/dac-diem-va-cong-dung-cua-dua" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/dac-diem-va-cong-dung-cua-dua" title="Đặc điểm và công dụng của dừa"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Flarge%2Fdac-diem-cong-dung-dua.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=lpfh6TVkbg8s%2BK%2FxzKbPAwNByBMMfIbgsTEwz19mIfvvY%2B%2BMUTpPoxChuETfTu9posgDN3KjsQZg%2B5247AV%2BSz5MDndVUV96oFcna8c%2B3L77CfH1X2B3nzx6sxPdiTS%2FknIWAHd%2FII0OJQRvQazEQT3UAXfyl1%2FdyenwT9sB%2BKNef2p73YGXcVDZbLSlHfERc%2BitAXaWt0scjt7eRuTjY6edxKZZ9DW3fpxSsUbjy0ZVcdBPAYigSMtSseOq68d6xgI2sJvndiHfrD%2FOdIfZlhTUaSYDlrUwsAx2lE9qT12uEpOHG5EfgAtNK3xsshN0A9SolqdYsbAjbTDKDCwgLQ%3D%3D" layout="fill" alt="Đặc điểm và công dụng của dừa" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Hình ảnh cây dừa đã đi vào thơ ca tự bao giờ: ai đứng như bóng dừa tóc dài bay trong gió có phải người còn đó là con gái của Bến Tre, nói đến dừa lại nghĩ đến Bến Tre </div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/tac-dung-cua-dau-gac-doi-voi-sac-dep" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/tac-dung-cua-dau-gac-doi-voi-sac-dep" title="Công dụng của dầu gấc đối với sắc đẹp"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fquagac.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=QRzEfKYDgjwaS2uAq823o41R6UhSYUTuRHpoBwTXtUDV0ZCwcRr0Mvg3O1YO%2FBB6qytJUjHne7r2cfy7j2DU2tIrCIe8Lw1zxpkpUqFXJ2WOKqBYQTrPmuQbo2%2F9bOYNN%2BWo%2B9wr8ManwBEz0nRYwFkBrj2iYTjqhSbgzo9LkmMU41l8XOMctFav6%2BN4%2Bey1ppVrDOPZ3xvLBy3oszBpXdC3BWpguBV7axzEGZRZ%2FkUSOSkz2aDdtqtD3qUz05qPP4v0yA8srLmkxbdmnZmw%2FYy6%2B9MipInh82RxvBckSUM4I7BWS0ndFi%2FHO3Dfhs5x8RFXOUljCGCuwlKSL9Ohiw%3D%3D" layout="fill" alt="Công dụng của dầu gấc đối với sắc đẹp" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Dầu gấc là một loại thực phẩm rất tốt cho sức khỏe. Bên cạnh, dầu gấc dưỡng da rất tốt, giúp các mẹ bầu yên tâm khi thoa dầu gấc sẽ hạn chế tình trạng rạn da sau sinh.</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cach-lam-mut-dua-vien" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cach-lam-mut-dua-vien" title="Cách làm mứt dừa viên"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fmut-dua%2Flarge%2Fmutduavie.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=RteFS8kfFkpXcU%2B7L9H38HQ1aowvnLwAztPcMJCts7FPATWxsUx52HQIi3%2Fk2FzS1Wiolde6UaUwlNLIQ%2BqGI5f0A004%2F%2BB%2B%2BAavCQ0pFMtE26wkC7WrROJkyClaOljFV%2BqdMGTkRU%2BuxGOdxq86MnxhmIHwzn99QqYk1IRq9GpAUPQRzeYNDCsZSv%2FEufBkWb5dkvPhEPnX5E53pHJDtrgfVbuLPdYUHwDg9Rzmtbie0EMjdl9KniqT0xQL3y%2Bt7P4iGXhOs9%2BKE83Hvwv%2BSLamJYNs8oq9h%2B4PD5so8m2jY1watd%2FKS1Ic4snUDEj0IrMSAtwv%2B2AIkV%2FLzUzbyA%3D%3D" layout="fill" alt="Cách làm mứt dừa viên" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Mứt dừa viên do cô giáo trẻ dạy tiếng anh sáng tạo và đưa lên mạng xã hội tết 2017 đã gây xôn xao cộng đồng mạng, nhất là các bà nội trợ, mẹ bỉm sữa nhờ hình dáng hạt lựu với nhiều màu sắc lạ mắt, hấp dẫn </div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/loi-ich-cua-dau-dua-doi-voi-suc-khoe" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/loi-ich-cua-dau-dua-doi-voi-suc-khoe" title="Lợi ích của dầu dừa đối với sức khỏe"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-dua%2Flarge%2Fdau-dua.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=cdVTzAuDIiz3P76iJky175mCOdYbJW89N9ou8D3%2FXZmCKNvpvn7i0sEloBwTrQczq6RhcPPhsxfig7FnL4N%2FeZalBuZu0KbQ0omNdR6OIriX9zOeHN93FlzHPHXbqpb8d%2FguKIOYOIlTd1FfRXWVpny2VoupAM3xwVdkvyxTCRk0defPBOe5sVeFsTBvtfwz7VtkiKisc%2B2A3nKqc7tyqXsWR5PODCc%2B%2Bi%2FHWK4lYBKQZQ%2Ftzf5q95quXfqTDc%2FFiAccfVnTuwqiP5mcJHrLFJdUbNkkfm55SYcufrHB%2BoHrStEnbrFiB4fZyBrLvbFTPXjQW1M%2BpN4ufmsuhRTc2A%3D%3D" layout="fill" alt="Lợi ích của dầu dừa đối với sức khỏe" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Dầu dừa được chiết từ cơm của trái dừa khô, qua nhiều công đọan chế biến, chưng cất bằng thủ công người nông dân mới thu được dầu. Nó là sản phẩm thiên nhiên nên rất tốt cho sức khỏe cũng như sắc đẹp, vóc dáng của chúng ta, không những thế dầu dừa còn có nhiều công dụng khác mà mọi người ít ai biết, vậy chần chừ gì nữa mà không tìm hiểu</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/banh-trang-my-long" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/banh-trang-my-long" title="Bánh tráng Mỹ Lồng"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fbanh-trang%2Flarge%2Fbanh-trang-my-long.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=i2sqh0kg7BabmPkEE7K%2FlOfrcQPuZKWNCN7CjGaopHbJK8a4oTabbOCwQPUNklAkeNQReVS%2F%2B763d3RturjRiEue1PM8DgIoB7ZFEaf6GG4p8BKXb6dTDigGN8Cj1KdYuMWR52Z7Ou2DHuc%2FTEQzijvWoJdWk3Dc64sZcrs3NyiW7KyAkRVJptljHiT2w61fmQDJ43rMspljjxq2zEUPqRQE%2FGNDIKVM6pVp0jP9c%2FDNYbETijGjZuoDHtf226j4WgpjmH67Fcdxv2smM%2FpzOJ60t%2Fb4GM11aqRvzQGa02wDSmSmhRScEFGsA3FXXfm%2BG7rv6qvzBARW6ahBl4pDiA%3D%3D" layout="fill" alt="Bánh tráng Mỹ Lồng" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Hành trình về thăm cơ sở làm bánh tráng của Chị Hai ở Mỹ Lồng, tìm hiểu quá trình làm bánh của người dân xứ Dừa, công việc bắt đầu từ 15h chiều</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cong-dung-cua-dau-gac-doi-voi-suc-khoe-va-sac-dep" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cong-dung-cua-dau-gac-doi-voi-suc-khoe-va-sac-dep" title="Công dụng của dầu gấc đối với sức khỏe"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fgac.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=NhA9ThYYyIrQTasylpFnSWlylE1Wqt%2FT4U%2FpZzfZM%2Fw189z5BL89uPnx%2BxM8vEhtduSorgvR0sMguowtifaZsbFErfR0KmWT76KXnfyREUpDER7O6%2BHLXXmALqDft%2B5fLaUMTsY2tc%2BkbPvSZOzzSo88%2Bmfel03p%2Fw9A7jWr0GNgS%2FB5qHHHcCRu12GsTJ%2FkvISMqjGx89jIVi9GelgIG%2FrfYeqx%2Fpq1YV9feZenR0AaAL2Xsqbip3%2BXnXXmXUcal8J1TWwHX%2FxhKi2eH6ZQnWqvSgWe9%2BZ%2BxQaSx0EgQ0V8DogMB5XXk%2BvZkJALm6ZKejRVZ8LTk20NyYqz%2FhTAJA%3D%3D" layout="fill" alt="Công dụng của dầu gấc đối với sức khỏe" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Dầu gấc được chiết ra từ quả gấc, một loại thực phẩm rất tốt cho sức khỏe. Ngoài ra nó còn có công dụng đối với viêc chăm sóc sắc đẹp của chị em phụ nữ đặc biệt là tốt cho bà bầu. Hãy cùng nhau khám phá công dụng của dầu gấc nào</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/dau-gac-rat-tot-cho-tre-em" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/dau-gac-rat-tot-cho-tre-em" title="Dầu gấc rất tốt cho trẻ em"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fdau-gac-tre-em.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=a9NNDsUIWxPd3cZgKm0lqS6kLxZLLw3PjZ7jSDE0DrQUaNsd1G%2FGFF4UHKfrUqehy%2BZMgkdD0o7FkNiXHd%2F2e1F%2BzuflQNJVkoheb0rWpnZ5Dpl0b8GmehJVBwM41QbeZ%2FL7zGxJ%2Bsw%2B3oZX1%2Fdj811q%2BsYxsyFgQctSWiQWxGogAwwkoXoK4uzbyjwHLwPaAakKckfAMVVPBvEfCOJ7r6bzHg3LynEE%2FI4WPZe5HGiTdCeb2agARN82ReB3eme4m6MQ5%2FuzsDwaBtn6RProCIEZ8L5SzyinVxWDhSiK1JeWNRugcTeXbtZHQzB%2BvXPtZ8pcr5dr3udAzOeT%2F3Oeyw%3D%3D" layout="fill" alt="Dầu gấc rất tốt cho trẻ em" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Dầu gấc nguyên chất là một dược phẩm tự nhiên rất tốt cho sức khỏe, đặc biệt là trẻ em, trẻ sơ sinh. Vì trong thành phần dầu gấc có nhiều vitamin A, E và các khoáng chất cần thiết cho cơ thể.</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/dau-gac-giup-ngan-ngua-ung-thu" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/dau-gac-giup-ngan-ngua-ung-thu" title="Dầu gấc giúp ngăn ngừa ung thư"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fungthu.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=Lkk5WQOk2XSvjfu2bzx9PY8NIf5I3ISajZTBiHvXg5AAnhWxgQe8Xi6Ycir6zKCMkYdsvWPlrYfIxT17lqEI26nh05s%2FZF71BT1N5BBySY4CH4XbFcd3iksBCrhOuWTSkacjGCfxmHdmO3oQA7kIgVjIVjnevar4kct8kvgmJv7IeTL9GfTbgSJPgfldXZ7rHAaNocclVwRJfECur5spEXEWuxV0AOYJCfkD4hDTpqAwSOdUnpYXJUeD3EAnOGLpzN8C%2FM8O80f6A7KZh8dUOEeEa1sqzjZEcOgQdfli6OCZb3RCHpg49m8rPqCjkGNkB%2B6EdXBgFElijcAlbF7tkQ%3D%3D" layout="fill" alt="Dầu gấc giúp ngăn ngừa ung thư" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Dầu gấc ngăn ngừa ung thư do trong dầu gấc chứa rất nhiều lượng lycopen có khả năng tiêu diệt các tế bào ung thư hơn hẳn cà chua.</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/cong-dung-cua-dau-gac-doi-voi-me-bau" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/cong-dung-cua-dau-gac-doi-voi-me-bau" title="Công dụng của dầu gấc đối với mẹ bầu"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fbau.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=YXHPURBi73BOQYkmtU8sCYjgYW8hRJpuLvLt0hEHcOpYWOtlyRa0Rsp7YjHCZm%2BUuVjtbI2Bb3Benm%2FatvuZDPlNdVHF1yxqrNvZqVPgbAU1yygc9PNncuTVAn05jqCmB5uieyDPor08TzAGxTyVTZINALCrnrnHUbtjmrR66CVvhUbOOdxZCWC%2F2a%2FonLMgnPEfxy%2B1UIChhSPk%2FjYHR5XW6A6Weq%2FJIB5dtJt0MjUvRwQ83YZfE52bKKjiNGgYoyLL7bIMrH9r5KCF%2BtSZvSWpgo92xgo32Pbc2l1Calfp%2F6KkbVPqXl906yQEYfq0wm1PJm%2FeagdU%2FsnMu6%2FcWA%3D%3D" layout="fill" alt="Công dụng của dầu gấc đối với mẹ bầu" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Là phụ nữ thì ai cũng thích đẹp, nhưng khi mang thai, em bé ngày càng lớn thì cũng là lúc những vết rạn da ở bụng, đùi, thậm chí trên bầu ngực chen chúc nhau mọc ra, phải làm sao bây giờ? Đừng lo dầu gấc sẽ giúp bạn</div></a></div><div class="i-amphtml-slide-item"><a class="slide amp-carousel-slide" href="/bai-viet/tac-dung-cua-dau-gac-voi-mat" data-vars-click-ga-trigger="click_home_article_item" data-vars-label="name:/bai-viet/tac-dung-cua-dau-gac-voi-mat" title="Tác dụng dầu gấc đối với mắt"><amp-img src="https://storage.googleapis.com/ifarmer-e25f1.appspot.com/assets%2Fimg%2Fdau-gac%2Flarge%2Fdau-gac-doi-mat.jpg?GoogleAccessId=firebase-adminsdk-bkomw@ifarmer-e25f1.iam.gserviceaccount.com&amp;Expires=1552060800&amp;Signature=j33iE4%2BXm7UWCK7cAF%2Bey8foFTmlPT9B5eXxZvQPq1It46PXA7ImrOBaKI69DF2sY9gQ3mvf2wqQ0wsxrErduT%2BfFVU1yxiDPd64B8jhaX87D0o9sV2k0kkGqIPxrZcxjWuAaQxpfNE%2F5aZOOP%2BVhWuXCa%2FsyLhrElS9riJcdvBJgY2lLtmm1yiMwb5XRg8P6uuShiwm6SMzTAf8bl0DZmkE8N%2BgHPnoUBXKNyYY3ysTh5YzD8fwlhGAHxxVivPTbyW5HbFm8GQXgJXf2KTcSXhcACyYrBaY1Ib54Ekik8P9pucms40D8h%2BEJgsX%2FAi8CqnKvm7n4BsZJFrMa8Lscg%3D%3D" layout="fill" alt="Tác dụng dầu gấc đối với mắt" class="i-amphtml-element i-amphtml-layout-fill i-amphtml-layout-size-defined"></amp-img><div class="caption">Tại sao lại nói dầu gấc có tác dụng rất tốt với đôi mắt chúng ta? Bởi vì các nhà khoa học Mỹ đã chứng minh trong gấc có lượng rất lớn các chất như  beta caroten hay còn gọi là tiền sinh tố A (khi vào cơ thể sẽ chuyển thành vitamin A). Đây là nguồn cung cấp vitamin A tự nhiên, dồi dào cho cơ thể</div></a></div></div><div tabindex="0" class="amp-carousel-button amp-carousel-button-prev" role="button" aria-disabled="false"></div><div tabindex="0" class="amp-carousel-button amp-carousel-button-next" role="button" aria-disabled="false"></div></amp-carousel></div></div></main></div></div><footer class="bg-green pa2  white"><div class="tc mw9 center flex-l"><div class="w-100 w-50-l"><div class="topnav dn db-l"><a href="/" class="active" title="Trang chủ">Trang chủ</a><a href="/gioi-thieu" title="Giới thiệu">Giới thiệu</a><a href="/san-pham/dau-gac-1-lit" title="Sản phẩm">Sản phẩm</a><a href="/bai-viet/cong-dung-cua-dau-gac-doi-voi-suc-khoe-va-sac-dep" title="Bài Viết">Bài Viết</a><a href="/lien-he" title="Liên hệ">Liên hệ</a></div><div class="pa1 mt2"><a href="/huong-dan-mua-hang" target="_blank"> Hướng dẫn mua hàng</a></div><div class="pa1 mt2"><a href="/chinh-sach-quyen-rieng-tu" target="_blank" rel="nofollow" title="Chính sách quyền riêng tư">Chính sách quyền riêng tư</a></div><div class="pa1 mt2"><a href="http://ifarmer.vn" title="Trang chủ">Công ty Bến Phú An</a></div><div class="pa1 mt2"><a href="http://ifarmer.vn" title="Trang chủ">Văn phòng đại diện: 109, đường 3, P.Cát Lái, Q2, TPHCM</a></div><div class="pa1 mt2">Số ĐT: <strong>0918 327 819</strong></div><div class="pa1 mt2">Email: benphuan@gmail.com</div><div class="pa1 mt2"><a href="http://ifarmer.vn" title="Trang chủ">ifarmer.vn </a>© 2018 </div></div><div class="w-50-l"><amp-iframe sandbox="allow-scripts allow-same-origin" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1959.8175345083466!2d106.78636796903658!3d10.762582651427316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752438a756b2c5%3A0x7227c79e83cb88ab!2zMTA5IMSQxrDhu51uZyBz4buRIDMsIEPDoXQgTMOhaSwgUXXhuq1uIDIsIEjhu5MgQ2jDrSBNaW5oLCBWaWV0bmFt!5e0!3m2!1sen!2sus!4v1526661283778" width="400" height="200" frameborder="0" class="i-amphtml-element i-amphtml-layout-fixed i-amphtml-layout-size-defined" style="width: 400px; height: 200px;"><i-amphtml-scroll-container></i-amphtml-scroll-container></amp-iframe></div></div></footer></body></html>

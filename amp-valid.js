@@ -16,4 +16,5 @@ function validateFromURL(url) {
     });
     return defered;
 }
-validateFromURL('http://ifarmer.vn');
+var url = process.env.URL || 'http://ifarmer.vn';
+validateFromURL(url);
